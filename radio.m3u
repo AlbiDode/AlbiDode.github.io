@@ -22,6 +22,8 @@ http://149.202.220.47:8888/radiotirana3
 http://149.202.220.47:8888/rti
 #EXTINF:0,Radio Tirana Klasik
 http://149.202.220.47:8888/radiotiranaklasik1
+#EXTINF:0,Radio Tirana Jazz
+http://149.202.220.47:8888/radiotiranajazz
 #EXTINF:0,Smooth Grooving
 http://64.95.243.43:8020/stream.ogg
 #EXTINF:0,DELUXE RADIO
