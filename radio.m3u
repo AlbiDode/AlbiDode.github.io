@@ -39,7 +39,7 @@ http://46.245.183.120:8000/0002
 #EXTINF:0,DISCO DELUXE
 https://deluxe.hoerradar.de/discodeluxe-mp3-hq
 #EXTINF:0,The Lounge Channel
-http://streaming.radionomy.com/The-Lounge-Channel?lang=en-US%2cen%3bq%3d0.5
+http://listen.radionomy.com/the-lounge-channel
 #EXTINF:0,RTL 102.5 Classic
 http://shoutcast.rtl.it:3020/stream/1/
 #EXTINF:0,RTL 102.5
@@ -74,8 +74,6 @@ https://deluxe.hoerradar.de/kanalkavka-mp3-hq
 https://deluxe.hoerradar.de/deluxe-chefsessel-mp3-hq
 #EXTINF:0,Tirana Jazz Radio
 http://live.tiranajazzradio.com:8000/stream
-#EXTINF:0,Cmendina Radio
-http://149.202.220.47:8888/live.m3u
 #EXTINF:0,Radio Shqip
 http://93.190.141.15:8206/;stream.mp3?_=1
 #EXTINF:0,Alpo Radio
