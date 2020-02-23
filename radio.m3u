@@ -12,6 +12,8 @@ http://ice31.securenetsystems.net:80/AL09
 http://95.107.173.168:6500/;
 #EXTINF:0,Radio One
 http://93.190.141.15:8360/stream.ogg
+#EXTINF:0,DanceFM 89.5
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
 #EXTINF:0,Radio Tirana 1
 http://149.202.220.47:8888/radiotirana1
 #EXTINF:0,Radio Tirana 2
