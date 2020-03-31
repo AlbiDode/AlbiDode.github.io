@@ -1,5 +1,55 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,RTSH 1
+https://edge01eu.ekranet.com/rtshhd_low/index.m3u8
+#EXTINF:-1,RTSH 2
+https://edge06eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:-1,RTSH 3
+https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:-1,RTSH Sport
+https://edge06eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:-1,RTSH Korca
+https://edge06eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-1,RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1,RTSH Shqip
+https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1,RTSH Muzike
+https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-1,RTSH 24 
+https://edge01eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1,RTSH Femije 
+https://edge06eu.ekranet.com/rtshfemije_240p/index.m3u8
+#EXTINF:-1,RTSH Film 
+https://edge06eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1,RTSH Kuvendi
+https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1,IN TV 
+http://80.90.86.195:1935/live/livestream/playlist.m3u8
+#EXTINF:0,ORA NEWS
+https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:0,ORA
+https://tv.oranews.tv/live/ora/index.m3u8
+#EXTINF:0,NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:0,FAX News
+https://edge06eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:0,Vizion+
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:0,REPORT TV
+https://sh-stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,Premium Channel
+http://premium-channel.tv/stream.m3u8?1
+#EXTINF:0,City TV
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cq4ElidNsLSgyLwvGNB-uSywPHUvZbEua7piXZXc6zvZBlqDx02Zm5_TShi36YM1Q9SN1OUXN_flhI_ig4XrKMTXUoFg9pC-lIOG6rpbEA_EyIPFeOkV88HkLdfKHGKazO-s6DufZFkpZ8uOSbA-AbZ8ovtSp_PmeZP69D9STgSCgneIWFqNjBs3kXTl2v5OTRf4g0J2wRSy-kkaXjwHsUKmB9cndNsv19BedSLvxkv3qCCUfKlPfxo6S6J_nGVoYDP2caeHmuqTJXzm3tMj_9tsdAVGsfXGxpqIT4rQqasZ6WinvADWR8vEHtf7sdv3XaDwM68vm52Vsr7ipeNutEtTzjh_HgLuT8lEtr3NP5HzwKHOmFTYlXppYuNPFZ1XsckTqlF1EHMYsD-Boz-x2HwXQzklHSguF7C7YFDoz1kjCHtjj2eSI6Dm2WoNTSAUCqGJHtqz-kHQyEzgemT467WIhXnhCq4PgWN8qBwZO_dC3fITZCxzYaH-BtjZj2byNksER6dl0iELsORplWYCJo9SkTuA783zK2lkVLsrTiQ13hmtfsRgYif3wPYI_NlduNXEOq-RQ_P8yTJUOtH5_3btZR-F1dG08oCBtq07dxfJYzf0zbxG_fRuSMUFxRVnI76fD_mupvejdtEnNJhFgy3iczsMKQcC7-14mkn8gT_2yUedeJka7EwzLF8BI0F3dB9hfHwcZSpUP-U9g868uhxj6FKra_mqW05ylLyN4THuEhClsh_cGbmh3Y2wAvYiufc9GgwXG0_-qApJuzI3vAA.m3u8
+#EXTINF:0,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0,1 Music Channel
+http://1mstream.digicable.hu:80/stream/1music.m3u8
+#EXTINF:0,UTV
+https://edge71.rcs-rds.ro/digi24edge/utvhq.stream/chunklist_w1579819790.m3u8?quality=hq
+#EXTINF:0,DeeJay TV
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
 http://a300.no-ip.biz:45000/
 #EXTINF:0,Top Albania Radio
@@ -67,7 +117,9 @@ http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.n
 #EXTINF:0,City Radio 88.0 FM
 http://93.190.141.15:7368/
 #EXTINF:0,Rix FM
-http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web
+http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553021
+#EXTINF:0,Rix FM Fresh
+http://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
 #EXTINF:0,Radiotravel 104.6 Mhz
 http://93.190.141.15:7253/live
 #EXTINF:0,MC2
