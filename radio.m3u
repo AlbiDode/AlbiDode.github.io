@@ -10,8 +10,6 @@ https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
 https://edge06eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1,RTSH Korca
 https://edge06eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,RTSH Plus
-http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
 #EXTINF:-1,RTSH Shqip
 https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1,RTSH Muzike
