@@ -106,6 +106,8 @@ https://deluxe.hoerradar.de/discodeluxe-mp3-hq
 https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,RTL 102.5 Classic
 http://shoutcast.rtl.it:3020/stream/1/
+#EXTINF:0,RTL 102.5 DOC
+https://rtl-radio12-stream.thron.com/live/radio12/radio12/chunklist.m3u8
 #EXTINF:0,RTL 102.5
 http://shoutcast.rtl.it:3010/stream/1/
 #EXTINF:0,Radio Kiss Kiss
