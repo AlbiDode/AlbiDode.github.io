@@ -1,67 +1,5 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,RTSH 1
-https://edge01eu.ekranet.com/rtshhd_low/index.m3u8
-#EXTINF:-1,RTSH 2
-https://edge06eu.ekranet.com/rtsh2hd1/index.m3u8
-#EXTINF:-1,RTSH 3
-https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
-#EXTINF:-1,RTSH Sport
-https://edge06eu.ekranet.com/rtshsport_240p/index.m3u8
-#EXTINF:-1,RTSH Korca
-https://edge06eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,RTSH Shqip
-https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
-#EXTINF:-1,RTSH Muzike
-https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-1,RTSH 24 
-https://edge01eu.ekranet.com/rtsh24/index.m3u8
-#EXTINF:-1,RTSH Femije 
-https://edge06eu.ekranet.com/rtshfemije_240p/index.m3u8
-#EXTINF:-1,RTSH Film 
-https://edge06eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1,RTSH Kuvendi
-https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
-#EXTINF:0,ORA NEWS
-https://tv.oranews.tv/live/oranews/index.m3u8
-#EXTINF:0,ORA
-https://tv.oranews.tv/live/ora/index.m3u8
-#EXTINF:0,NEWS 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:0,TOP NEWS
-https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irQxERy2tlCNbXuhYvXCtuU4)/dm/3/x6inuzo/s/live-2.m3u8
-#EXTINF:0,ABC NEWS
-https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
-#EXTINF:0,FAX News
-https://edge06eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:0,REPORT TV
-https://sh-stream.duckdns.org/hls/stream.m3u8
-#EXTINF:0,TEMA TV
-https://edge01eu.ekranet.com/tematv_720p/index.m3u8
-#EXTINF:0,SYRI TV
-https://tv.syri.net/syrilive/webtv/chunks.m3u8
-#EXTINF:0,A2 CNN
-https://www.youtube.com/watch?v=JndmsIO9lkE
-#EXTINF:0,EuroNews
-https://www.youtube.com/watch?v=ZIs5kEgEuhs
-#EXTINF:0,Apollon TV
-http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
-#EXTINF:0,Rozafa
-https://www.twitch.tv/rozafa
-#EXTINF:0,Premium Channel
-http://premium-channel.tv/stream.m3u8?1
-#EXTINF:0,Zjarr TV
-https://edge06eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:0,Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:0,RTL 102.5 TV
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-#EXTINF:0,Hit Music Channel
-http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0,1 Music Channel
-https://1music.hu/1music.m3u8
-#EXTINF:0,DeeJay TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
 http://a300.no-ip.biz:45000/
 #EXTINF:0,Top Albania Radio
@@ -188,3 +126,65 @@ http://62.210.24.124:8379/;stream.mp3
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Rash
 http://5.196.97.98:8000/;stream.mp3
+#EXTINF:-1,RTSH 1
+https://edge01eu.ekranet.com/rtshhd_low/index.m3u8
+#EXTINF:-1,RTSH 2
+https://edge06eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:-1,RTSH 3
+https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:-1,RTSH Sport
+https://edge06eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:-1,RTSH Korca
+https://edge06eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-1,RTSH Shqip
+https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1,RTSH Muzike
+https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-1,RTSH 24 
+https://edge01eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1,RTSH Femije 
+https://edge06eu.ekranet.com/rtshfemije_240p/index.m3u8
+#EXTINF:-1,RTSH Film 
+https://edge06eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1,RTSH Kuvendi
+https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:0,ORA NEWS
+https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:0,ORA
+https://tv.oranews.tv/live/ora/index.m3u8
+#EXTINF:0,NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:0,TOP NEWS
+https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irQxERy2tlCNbXuhYvXCtuU4)/dm/3/x6inuzo/s/live-2.m3u8
+#EXTINF:0,ABC NEWS
+https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
+#EXTINF:0,FAX News
+https://edge06eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:0,REPORT TV
+https://sh-stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,TEMA TV
+https://edge01eu.ekranet.com/tematv_720p/index.m3u8
+#EXTINF:0,SYRI TV
+https://tv.syri.net/syrilive/webtv/chunks.m3u8
+#EXTINF:0,A2 CNN
+https://www.youtube.com/watch?v=Rw9ab_D9F2c
+#EXTINF:0,EuroNews
+https://www.youtube.com/watch?v=ZIs5kEgEuhs
+#EXTINF:0,Apollon TV
+http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
+#EXTINF:0,Rozafa
+https://www.twitch.tv/rozafa
+#EXTINF:0,Premium Channel
+http://premium-channel.tv/stream.m3u8?1
+#EXTINF:0,Zjarr TV
+https://edge06eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:0,Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:0,RTL 102.5 TV
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:0,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0,1 Music Channel
+https://1music.hu/1music.m3u8
+#EXTINF:0,DeeJay TV
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
