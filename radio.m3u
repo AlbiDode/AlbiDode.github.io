@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://ssh101.com/securelive/index.php?id=sot7
 #EXTINF:0,RADIO GALATSI
 https://sslstreaming.com:7019/;
 #EXTINF:0,Top Albania Radio
