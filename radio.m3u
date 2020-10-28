@@ -208,9 +208,9 @@ http://79.106.48.2:80/live/rtsh_film_mob/playlist.m3u8
 #EXTINF:0,RTSH Kuvendi
 http://79.106.48.2:80/live/rtsh_kuvendi_mob/playlist.m3u8
 #EXTINF:0,RTSH Gjirokastra
-http://79.106.48.2:80/live/rtsh_gjirokastra/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
-http://79.106.48.2:80/live/rtsh_kukesi/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
@@ -238,7 +238,7 @@ http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_slen
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
-http://84.16.241.205:88/live/livestreamkey2.m3u8
+http://79.106.48.2:80/live/premium/playlist.m3u8
 #EXTINF:0,Channel 7
 http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,RTL 102.5 TV
