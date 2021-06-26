@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: albidode.info
-Token: 1496101242833e8445c3e8ebc58aa88234a4fc9217b43972545d4ca186f20bc3
