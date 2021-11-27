@@ -180,6 +180,8 @@ http://stream.radiojar.com/kqv4gr3p6s8uv
 http://stream.radiojar.com/a7nbd5pscv8uv
 #EXTINF:0,Vinyl FM
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
+#EXTINF:0,Radio 31
+https://radiostationserver.com:1195/stream
 #EXTINF:0,RTSH 1
 http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
