@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0,RADIO GALATSI
-https://sslstreaming.com:7019/;
 #EXTINF:0,Top Albania Radio
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
