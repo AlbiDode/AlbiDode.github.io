@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:0,Radio Galatsi
 https://sslstreaming.com:7019/;?1643454618604
 #EXTINF:0,Top Albania Radio
@@ -174,7 +173,7 @@ http://79.106.90.123:5000/live/klanmusicradio1/playlist.m3u8
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,Radio RASH
 http://5.196.97.98:8000/;stream.mp3
-#EXTINF:0,Radio LS Public  
+#EXTINF:0,Radio LS Public
 http://live.lspublic.com:27022/;
 #EXTINF:0,RTSH 1
 http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
