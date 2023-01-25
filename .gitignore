@@ -5,3 +5,4 @@
 *.db
 *.db
 Thumbs.db
+.DS_Store
