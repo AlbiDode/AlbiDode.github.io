@@ -1,4 +1,5 @@
 <!doctype html>
+
 <html amp lang="en">
 <head>
 <meta charset="utf-8">
@@ -52,12 +53,94 @@
 <meta name="twitter:title" content="Msc. ALBI DODE">
 <meta name="norton-safeweb-site-verification" content="zzz59chkido5j4dgq235osp8qznr4lr4auruw5v62y3p8xdkrk191svnl60ll9kim05xkkqf1kujfedhsxhog0x8lmd2ey-hpyreg68rl7586l2dd5tkze86jikokipg" />
 <style amp-custom>
-.table-responsive{min-height:.01%;overflow-x:auto} .table{width:100%;border-collapse:collapse;border-spacing:0} .table td,.table th{background-color:#F3F5EF;border:1px solid #bbb;color:#333;font-family:sans-serif;font-size:100%;padding:10px;vertical-align:top} .table tr:nth-child(even) td{background-color:#F0F0E5} .table th{background-color:#EAE2CF;color:#333;font-size:110%} .table tr.even:hover td,.table tr:hover td{color:#222;background-color:#FFFBEF} .tg-bf{font-weight:700} .tg-it{font-style:italic} .tg-left{text-align:left} .tg-right{text-align:right} .tg-center{text-align:center} @media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar} .table-responsive>.table{margin-bottom:0} .table-responsive>.table>tbody>tr>td,.table-responsive>.table>tbody>tr>th,.table-responsive>.table>tfoot>tr>td,.table-responsive>.table>tfoot>tr>th,.table-responsive>.table>thead>tr>td,.table-responsive>.table>thead>tr>th{white-space:nowrap} }  
+
 h2 {
 text-align: center;
 }
 div {
 text-align: center;
+}
+  
+  table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+   
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
 }
 </style>
 </head>
@@ -67,8 +150,8 @@ text-align: center;
 <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
 <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
 
-<div class='table-responsive'>
-  <table class="table">
+ 
+  <table>
     <tr>
       <th colspan="3" class="tg-center tg-bf">MSc. Albi Dode</th>
     </tr>
@@ -96,9 +179,9 @@ Let’s connect and explore how I can add value to your team !&nbsp;&nbsp;<br/>
 I finished my Bachelor studies in Computer science (<a href="https://www.suny.edu">State University of New York</a>), Master studies in Software Engineering (<a href="http://www.mdh.se">Mälardalens University Västerås</a>).
 
 </ul>
-</div></td>
+ </td>
     </tr>
-<tr> <td><div>
+<tr> <td> 
 <a href="https://www.albidode.info/cv.pdf" target="_blank">Read my CV</a></br>
 <a href="https://www.albidode.info/cv_de.pdf" target="_blank">Lebenslauf lesen</a>
 &nbsp;&nbsp; </br>
@@ -120,12 +203,12 @@ I finished my Bachelor studies in Computer science (<a href="https://www.suny.ed
 &nbsp;&nbsp; </br>
 <a href="https://web.archive.org/web/20211225181930/https://www.gasq.org/en/registration/expert/expert/777F3F88-63A1-4ED5-AC14-5B635DFFCF32.html">GDPR DPO Certification</a>
 &nbsp;&nbsp; </br>
-     </div>
+    
 </td>
-      <td><div class='table-responsive'>
-  <table class="table">
+      <td> 
+  <table>
     <tr>
-      <th colspan="2" class="tg-center tg-bf">Technical Skills</th>
+      <th colspan="2" >Technical Skills</th>
     </tr>
     <tr>
       <th>System Administration</th>
@@ -160,7 +243,7 @@ I finished my Bachelor studies in Computer science (<a href="https://www.suny.ed
       <td>Test the code to have 0 bugs</td>
       </tr>
   </table>
-</div></td>
+ </td>
       <td><div>
 
 <a href="https://youtu.be/M5hPnyfJGC4?t=109" target="_blank">Me at Dua Lipa's video - Stockholm</a>
