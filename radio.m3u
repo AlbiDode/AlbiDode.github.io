@@ -16,6 +16,8 @@ https://live.top-media.al/tar
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
 #EXTINF:0,Klan Radio
 https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
+#EXTINF:0,Paper Play Radio Albania
+https://business.playfm.al:8170/paperplay
 #EXTINF:0,ENERGY Radio Albania
 https://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,Radio DJ
