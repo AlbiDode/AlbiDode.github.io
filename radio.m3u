@@ -148,8 +148,6 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
 https://vs.sednastream.com:1936/alportv/alportv/chunklist_w1420568805.m3u8
-#EXTINF:0,Premium TV
-https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,NTV
