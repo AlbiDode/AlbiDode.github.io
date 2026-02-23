@@ -1,0 +1,753 @@
+  <DT><A HREF="https://payworks.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1763300906">Careers - Payworks</A>
+                        <DT><A HREF="https://studio3t.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Career | Studio 3T</A>
+                        <DT><A HREF="https://temedica.com/en/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Temedica / Careers: Shape the future with us</A>
+                        <DT><A HREF="https://www.darwinrecruitment.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Europe &amp; USA Technology Recruitment Specialists - Darwin Recruitment</A>
+                        <DT><A HREF="https://www.sintec.de/karriere/jobangebote/#" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Informatik-Jobs für Sie - SINTEC Informatik GmbH</A>
+                        <DT><A HREF="https://www.stellenanzeigen.de/stellenangebote/it/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">IT / TK / Software-Entwicklung Stellenangebote mit 1579 Jobs auf der Jobbbörse von stellenanzeigen.de</A>
+                        <DT><A HREF="https://www.absolventa.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Absolventa: Spezial-Jobbörse für Berufseinsteiger</A>
+                        <DT><A HREF="https://www.choice.de/de/karriere/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Choice GmbH</A>
+                        <DT><A HREF="https://jobs.mgm-tp.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Spannende IT Jobs in der Software-Entwicklung. Bewirb Dich jetzt!</A>
+                        <DT><A HREF="https://www.settle-in-berlin.com/find-a-job-in-berlin/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Berlin</A>
+                        <DT><A HREF="https://liveworkgermany.com/english-speaking-jobs-in-germany/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">How Can Skilled Professionals Find English Speaking Jobs In Germany?</A>
+                        <DT><A HREF="https://www.xing.com/en" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">XING</A>
+                        <DT><A HREF="https://www.iamexpat.de/career/working-in-germany/german-recruitment-agencies" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Recruitment agencies in Germany</A>
+                        <DT><A HREF="https://www.gelbeseiten.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759488714">Gelbe Seiten</A>
+                        <DT><A HREF="https://www.theblackbird.de/#about" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">blackbird collective</A>
+                        <DT><A HREF="https://rapidminer.workable.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">RapidMiner - egi shijaku</A>
+                        <DT><A HREF="https://www.artec-it.de/Default.aspx" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ARTEC IT Solutions AG</A>
+                        <DT><A HREF="https://wikimedia-deutschland.softgarden.io/de/vacancies" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Wikimedia Deutschland</A>
+                        <DT><A HREF="https://www.actico.com/de/unternehmen/karriere/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ACTICO</A>
+                        <DT><A HREF="https://www.replex.io/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Replex</A>
+                        <DT><A HREF="https://www.valispace.com/product/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Valispace</A>
+                        <DT><A HREF="https://www.optiopay.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">OptioPay</A>
+                        <DT><A HREF="https://leapsome.join.com/?page=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Leapsome GmbH</A>
+                        <DT><A HREF="https://i2x.recruitee.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">i2x</A>
+                        <DT><A HREF="https://medengine.co/about" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">MedEngine</A>
+                        <DT><A HREF="https://www.clark.de/de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Clark</A>
+                        <DT><A HREF="https://www.jenidsolutions.com/about/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">jenID Solutions</A>
+                        <DT><A HREF="https://fincompare.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FinCompare.de</A>
+                        <DT><A HREF="https://www.germanautolabs.com/open-positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">germanautolabs</A>
+                        <DT><A HREF="https://nect.com/personnel/we-are-hiring/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Nect.com</A>
+                        <DT><A HREF="https://inveox.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Inveox</A>
+                        <DT><A HREF="https://kinexon-jobs.personio.de/#all" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KINEXON GmbH</A>
+                        <DT><A HREF="https://www.pace.car/en/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">PACE</A>
+                        <DT><A HREF="https://www.ottonova.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ottonova</A>
+                        <DT><A HREF="https://angel.co/germany/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Germany Tech &amp; Startup Jobs</A>
+                        <DT><A HREF="https://www.bitwala.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Bitwala</A>
+                        <DT><A HREF="https://www.gehalt.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GEHALT.de</A>
+                        <DT><A HREF="https://www.campusjaeger.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Campusjäger</A>
+                        <DT><A HREF="https://atheneum.recruitee.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Atheneum</A>
+                        <DT><A HREF="https://www.omio.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Omio</A>
+                        <DT><A HREF="https://careers.smartrecruiters.com/ABOUTYOUGmbH" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ABOUT YOU GmbH</A>
+                        <DT><A HREF="https://www.pse.kit.edu/english/karriere/121.php" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KIT - PSE - Jobs</A>
+                        <DT><A HREF="https://www.rocket-internet.com/careers/companies/engineering?page=3" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Rocket Internet</A>
+                        <DT><A HREF="https://www.talent-berlin.de/en/jobs/living-in-berlin/?tx_bpjob_pi1%5B__referrer%5D%5B%40extension%5D=BpJob&tx_bpjob_pi1%5B__referrer%5D%5B%40vendor%5D=Bp&tx_bpjob_pi1%5B__referrer%5D%5B%40controller%5D=Job&tx_bpjob_pi1%5B__referrer%5D%5B%40action%5D=search&tx_bpjob_pi1%5B__referrer%5D%5Barguments%5D=YTowOnt9493f1f74a15b74f6441418ce6bbc6ca6dcc39b65&tx_bpjob_pi1%5B__referrer%5D%5B%40request%5D=a%3A4%3A%7Bs%3A10%3A%22%40extension%22%3Bs%3A5%3A%22BpJob%22%3Bs%3A11%3A%22%40controller%22%3Bs%3A3%3A%22Job%22%3Bs%3A7%3A%22%40action%22%3Bs%3A6%3A%22search%22%3Bs%3A7%3A%22%40vendor%22%3Bs%3A2%3A%22Bp%22%3B%7D019d96e9175eaeee300796bc7ecf336da9373caf&tx_bpjob_pi1%5B__trustedProperties%5D=a%3A1%3A%7Bs%3A6%3A%22search%22%3Ba%3A3%3A%7Bs%3A5%3A%22sword%22%3Bi%3A1%3Bs%3A6%3A%22branch%22%3Bi%3A1%3Bs%3A6%3A%22submit%22%3Bi%3A1%3B%7D%7Dc976943fb0504c8c2335950f7984a9bb6c364fcc&tx_bpjob_pi1%5Bsearch%5D%5Bsword%5D=&tx_bpjob_pi1%5Bsearch%5D%5Bbranch%5D=13&tx_bpjob_pi1%5Bsearch%5D%5Bsubmit%5D=Search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Living in Berlin</A>
+                        <DT><A HREF="https://joblistberlin.com/companies" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job List Berlin</A>
+                        <DT><A HREF="https://www.glassdoor.de/Bewertungen/berlin-bewertungen-SRCH_IL.0,6_IM1020.htm" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unternehmen in Region Berlin | Glassdoor.de</A>
+                        <DT><A HREF="https://de.jobtome.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobtome</A>
+                        <DT><A HREF="https://www.e-mundo.de/jobs/munich" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">eMundo</A>
+                        <DT><A HREF="https://www.finleap.com/careers/tech/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">finleap</A>
+                        <DT><A HREF="https://careers.getpenta.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Penta</A>
+                        <DT><A HREF="https://elinvar.recruitee.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Elinvar GmbH</A>
+                        <DT><A HREF="https://www.eventbrite.com/d/germany--berlin/job-fair/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Berlin, Germany Job Fair Events</A>
+                        <DT><A HREF="https://cdn.evbuc.com/eventlogos/288662117/img1596.png" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kompani</A>
+                        <DT><A HREF="https://allevents.in/berlin/meetups?ref=cityselect-eventlist#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Meetups Events in Berlin</A>
+                        <DT><A HREF="https://startup-calendar.com/startup-events-berlin/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Startup Events Berlin</A>
+                        <DT><A HREF="https://www.derjungefritz.com/#karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://www.derjungefritz.com/#karriere</A>
+                        <DT><A HREF="https://www.brunel.de/de-de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Brunel</A>
+                        <DT><A HREF="https://www.northdata.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">kerko per kompani-North Data Smarte Recherche</A>
+                        <DT><A HREF="https://jobs.softing.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Softing Services GmbH</A>
+                        <DT><A HREF="https://www.wave-access.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">WaveAccess</A>
+                        <DT><A HREF="https://www.tngtech.com/fuer-bewerber/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TNG</A>
+                        <DT><A HREF="https://appsphere-karriere.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Appsphere</A>
+                        <DT><A HREF="https://about.chrono24.com/de/jobs/technology/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Chrono24</A>
+                        <DT><A HREF="https://www.geco-group.com/geco-deutschland/career-at-geco" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GECO</A>
+                        <DT><A HREF="https://www.jeffersonwolfe.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jefferson Wolfe</A>
+                        <DT><A HREF="https://www.hero-consulting.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://www.hero-consulting.de/</A>
+                        <DT><A HREF="https://adlon.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ADLON</A>
+                        <DT><A HREF="https://www.proway.de/jobangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Proway GmbH</A>
+                        <DT><A HREF="https://www.acp.de/karriere/jobangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ACP</A>
+                        <DT><A HREF="https://careers2-transporeon.icims.com/jobs/search?ss=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Transporeon Group</A>
+                        <DT><A HREF="https://buchergruppe.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Bucher Gruppe</A>
+                        <DT><A HREF="https://intermetrics.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Intermetrics</A>
+                        <DT><A HREF="https://www.sva.de/unternehmen/karriere_uebersicht.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SVA System</A>
+                        <DT><A HREF="https://karriere.cancom.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CANCOM SE</A>
+                        <DT><A HREF="https://www.ride-the-wake.de/consulting/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Consulting | Deloitte innoWake GmbH</A>
+                        <DT><A HREF="https://www.akka-technologies.com/jobs-list/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Akka Technologies</A>
+                        <DT><A HREF="https://polygran-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Polygran GmbH</A>
+                        <DT><A HREF="https://pnm-consulting.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">PNM Recruiting Consulting</A>
+                        <DT><A HREF="https://www.digital-zeit.de/Unternehmen/Karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ZEIT</A>
+                        <DT><A HREF="https://www.arlt.com/Jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ARLT Computer</A>
+                        <DT><A HREF="https://www.modis.com/de-de/karriere/jobsuche/?t=&loc=&placeId=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Modis</A>
+                        <DT><A HREF="https://zattoo.com/company/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Zattoo</A>
+                        <DT><A HREF="http://www.synapplix.de/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Synapplix</A>
+                        <DT><A HREF="https://limango-portal.rexx-recruitment.com/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">limango GmbH</A>
+                        <DT><A HREF="https://www.innogames.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">InnoGames</A>
+                        <DT><A HREF="https://www.vrsmedia.com/index.php/vrs-media/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">vrsmedia</A>
+                        <DT><A HREF="https://www.offis.de/en/offis/career/vacancies.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">OFFIS</A>
+                        <DT><A HREF="https://www.jobvector.de/stellensuche.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">jobvector</A>
+                        <DT><A HREF="https://www.fahrrad-xxl.de/jobs/?job_branch=17&job_category=1&job_type=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Fahrrad XXL</A>
+                        <DT><A HREF="https://www.celonis.com/careers/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Celonis</A>
+                        <DT><A HREF="https://www.wayfair.com/careers/jobs/?teamIds=1&teamCategoryIds=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Wayfair</A>
+                        <DT><A HREF="https://www.seeburger.com/de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SEEBURGER</A>
+                        <DT><A HREF="https://www.smartinsurtech.de/ueber-uns/#karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Smart InsurTech</A>
+                        <DT><A HREF="https://www.swarco.com/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SWARCO</A>
+                        <DT><A HREF="https://www.cadclick.de/unternehmen/wir-ueber-uns/#stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KiM GmbH</A>
+                        <DT><A HREF="https://www.kuettner-automation.de/jobs-2/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Küttner Automation in Trier</A>
+                        <DT><A HREF="https://mitl-netzwerk.eu/verzeichnis/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Mitgliederverzeichnis - Medien- &amp; IT-Netzwerk Trier-Luxemburg e.V. (MITL)</A>
+                        <DT><A HREF="https://mefa-medienfabrik.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">MEFA Medienfabrik - Agentur für Design und Strategie</A>
+                        <DT><A HREF="https://jobs.brickmakers.de/en?" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Work@BRICKMAKERS</A>
+                        <DT><A HREF="https://www.it-jobtag.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT-Jobtag</A>
+                        <DT><A HREF="https://www.jobware.de/jobs/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs IT</A>
+                        <DT><A HREF="https://www.gulp.de/gulp2/g/jobs?amp;scope=jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GULP</A>
+                        <DT><A HREF="https://www.qaware.de/karriere/#entwicklung" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Qaware</A>
+                        <DT><A HREF="https://www.bwi.de/karriere/jobsuche" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BWI</A>
+                        <DT><A HREF="https://www.is2.de/karriere/#Jobs!loading" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">iS2 AG</A>
+                        <DT><A HREF="https://datev.wd3.myworkdayjobs.com/Datev_Careers/2/refreshFacet/318c8bb6f553100021d223d9780d30be" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Datev</A>
+                        <DT><A HREF="https://arts.eu/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ARTS</A>
+                        <DT><A HREF="https://www.uni-ulm.de/universitaet/karriere/career-service/fuer-studierende/job-karrieremessen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job- &amp; Karrieremessen - Universität Ulm</A>
+                        <DT><A HREF="https://www.aptiv.com/careers/search?joblocations=de" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aptiv</A>
+                        <DT><A HREF="https://omni-us.breezy.hr/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">omni:us</A>
+                        <DT><A HREF="https://www.inkitt.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Inkitt</A>
+                        <DT><A HREF="https://omnius.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">omni:us</A>
+                        <DT><A HREF="https://plantix.net/en/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Plantix</A>
+                        <DT><A HREF="https://hardskills.com/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Hardskills</A>
+                        <DT><A HREF="https://www.ventum-consulting.com/de/karriere/deutschland/stellenangebote-muenchen/joblevel/young-professional.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ventum</A>
+                        <DT><A HREF="https://careers.smartrecruiters.com/QuandooGmbH1/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Quandoo GmbH</A>
+                        <DT><A HREF="https://www.inovex.de/de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">inovex GmbH</A>
+                        <DT><A HREF="https://www.brandmaker.com/company/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BrandMaker</A>
+                        <DT><A HREF="https://www.conet.de/DE/karriere/arbeiten-bei-conet" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CONET</A>
+                        <DT><A HREF="https://www.gft.com/int/en/index/company/careers/job-offers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GFT Global</A>
+                        <DT><A HREF="https://theappsolutions.com/vacancies/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">APP Solutions</A>
+                        <DT><A HREF="https://precire.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">PRECIRE Technologies GmbH</A>
+                        <DT><A HREF="https://rasa.com/careers/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Rasa</A>
+                        <DT><A HREF="https://riskident.com/en/jobs/#positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">RISK IDENT</A>
+                        <DT><A HREF="https://www.kaiahealth.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kaia Health</A>
+                        <DT><A HREF="https://20bn.applytojob.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Twenty Billion Neurons GmbH</A>
+                        <DT><A HREF="https://www.konux.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KONUX</A>
+                        <DT><A HREF="https://www.deliveryhero.com/careers/jobs/#/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Delivery Hero</A>
+                        <DT><A HREF="https://www.ottonova.de/jobs/werkstudent-Company" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ottonova</A>
+                        <DT><A HREF="https://egym-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">eGym GmbH</A>
+                        <DT><A HREF="https://www.vitagroup.ag/de_DE/Karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">vitagroup AG</A>
+                        <DT><A HREF="https://www.door2door.io/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">door2door</A>
+                        <DT><A HREF="https://careers.getyourguide.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GetYourGuide</A>
+                        <DT><A HREF="https://www.mimi.io/en/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Mimi Hearing Technologies</A>
+                        <DT><A HREF="https://www.busylamp.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BusyLamp</A>
+                        <DT><A HREF="https://www.dataguard.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">DataGuard</A>
+                        <DT><A HREF="https://www.techbase.de/jobs-aus-dem-netzwerk.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Techbase Regensburg</A>
+                        <DT><A HREF="https://jobroller.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">JobRoller</A>
+                        <DT><A HREF="https://www.hofmann.info/jobs/neueste-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">I. K. Hofmann</A>
+                        <DT><A HREF="https://boards.greenhouse.io/freenow" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FREE NOW</A>
+                        <DT><A HREF="https://beo-software.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Beo Software</A>
+                        <DT><A HREF="https://www.communardo.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Communardo Software GmbH</A>
+                        <DT><A HREF="https://www.nitsche.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">nitsche GmbH</A>
+                        <DT><A HREF="https://joblift.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Joblift</A>
+                        <DT><A HREF="https://spryker-jobs.personio.de/?language=en#category-15203" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Spryker Systems GmbH</A>
+                        <DT><A HREF="https://8fit.com/careers/#job-openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">8fit</A>
+                        <DT><A HREF="https://www.sevensenders.com/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SEVEN SENDERS</A>
+                        <DT><A HREF="https://www.kolibrigames.com/career/positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kolibri Games</A>
+                        <DT><A HREF="https://www.raisin.com/careers/#jobs-toggle-container-9" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Raisin</A>
+                        <DT><A HREF="https://boards.greenhouse.io/asanarebel" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Asana Rebel</A>
+                        <DT><A HREF="https://www.make-it-in-germany.com/en/jobs/job-listings/?tx_vcjobs_list%5Baction%5D=list&tx_vcjobs_list%5Bcontroller%5D=Job&cHash=a12723e770e0bb126cc0abf8fed8f56a" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job listings</A>
+                        <DT><A HREF="https://www.uni-wuerzburg.de/en/news-and-events/jobs-and-apprenticeship/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Universität Würzburg</A>
+                        <DT><A HREF="https://datasciencejobs.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Data Science Jobs</A>
+                        <DT><A HREF="https://www.finleap.com/careers/jobs/#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">finleap</A>
+                        <DT><A HREF="https://nextcloud.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Nextcloud</A>
+                        <DT><A HREF="https://www.helmholtz-berlin.de/jobskarriere/stellenangebote/index_de.html#kat_12" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Helmholtz berlin</A>
+                        <DT><A HREF="https://www.jobcluster.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs &amp; Stellenangebote auf der Jobbörse Jobcluster</A>
+                        <DT><A HREF="https://ivm-pro.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - IVM Professional® | vermieten leicht gemacht | Software für die Wohnungswirtschaft</A>
+                        <DT><A HREF="https://www.dfg.de/service/jobs/geschaeftsstelle/index.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">DFG - Deutsche Forschungsgemeinschaft - Stellenausschreibungen der DFG-Geschäftsstelle</A>
+                        <DT><A HREF="https://www.helios-gesundheit.de/karriere/job-finden/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ihr neuer Job: Aktuelle Stellenangebote bei Helios</A>
+                        <DT><A HREF="https://www.softed.de/softed/jobs/default.aspx" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobs für für IT-Professionals in Dresden</A>
+                        <DT><A HREF="https://www.finest-jobs.com/Stellenangebote/Kategorie/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">3.196 Stellenangebote IT - finest jobs</A>
+                        <DT><A HREF="https://www.roc-search.de/job-search/?keyword=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Search | Find your next dream job today | Roc Search DE</A>
+                        <DT><A HREF="https://landing.jobs/jobs?country=DE&city%5B%5D=Berlin&hd=false&t_co=false&t_st=false" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Landing.jobs — curated tech jobs in development, marketing and design</A>
+                        <DT><A HREF="https://jobs.meinestadt.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Deutschland, 791.285 regionale Stellenangebote aus dem Stellenmarkt von meinestadt.de</A>
+                        <DT><A HREF="https://www.taledo.com/jobs?locale=en" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Taledo</A>
+                        <DT><A HREF="https://uhlsport.group/en/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Build your career at the uhlsport group. Be a part of our strong team.</A>
+                        <DT><A HREF="https://www.initse.com/ende/meta/careers/job-offers.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">init</A>
+                        <DT><A HREF="https://www.innosystec.de/de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere :: INNOSYSTEC GmbH</A>
+                        <DT><A HREF="https://www.darwinrecruitment.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT &amp; Technology Jobs - Darwin Recruitment</A>
+                        <DT><A HREF="https://profect.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | profect</A>
+                        <DT><A HREF="http://jobs.r-control.de/jobs/jobs-munich/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">rcp jobsJobs in Munich | rcp jobs</A>
+                        <DT><A HREF="https://getbyrd.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">byrd</A>
+                        <DT><A HREF="https://www.iais.fraunhofer.de/de/karriere/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - Fraunhofer IAIS</A>
+                        <DT><A HREF="https://www.jobrocker.com/de/it-development" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT &amp; Development | JobRocker</A>
+                        <DT><A HREF="https://www.reply.com/en/about/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Reply - careers and job opportunities: work with us</A>
+                        <DT><A HREF="https://www.it-talents.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Start in die IT-Branche: Berufseinstieg und Förderung für Dich | IT-Talents</A>
+                        <DT><A HREF="https://www.gruenderszene.de/jobboerse/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Suche | Gründerszene Jobbörse</A>
+                        <DT><A HREF="https://www.startup-incubator.berlin/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Startup Incubator Berlin</A>
+                        <DT><A HREF="https://k-tronik.de/en/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - K-tronik GmbH in Garching bei München</A>
+                        <DT><A HREF="https://www.q-perior.com/karriere/job-suche/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei Q_PERIOR – Finde Deinen Job in der Beratung</A>
+                        <DT><A HREF="https://www.brandmauer.de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Karriere bei BRANDMAUER IT</A>
+                        <DT><A HREF="https://www.real-digital.de/karriere/unsere-stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unsere Stellenangebote - E-Commerce - Köln - Düsseldorf | real.digital</A>
+                        <DT><A HREF="https://www.temedica.com/en/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Temedica / Careers: Shape the future with us</A>
+                        <DT><A HREF="https://www.prop.id/en/join" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">prop.ID Jobs</A>
+                        <DT><A HREF="https://www.ml-tech.org/jobboard/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">MLTech Jobboard - MLTech</A>
+                        <DT><A HREF="https://www.gulp.de/gulp2/g/jobs?scope=jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GULP</A>
+                        <DT><A HREF="https://staperior.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - Staperior Consulting GmbH - Unternehmensberatung</A>
+                        <DT><A HREF="https://www.yougrow-group.de/start.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">YouGrow - Academy</A>
+                        <DT><A HREF="https://ampada.com/index.php/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ampada GmbH - Ampada GmbH</A>
+                        <DT><A HREF="https://www.ruv.de/karriere/jobsuche/Aktuelle_Jobangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobangebote bei der R+V Versicherung</A>
+                        <DT><A HREF="https://www.foodspring.de/en/jobs?utm_medium=organic&utm_source=linkedinprofile" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://www.foodspring.de/en/jobs?utm_medium=organic&amp;utm_source=linkedinprofile</A>
+                        <DT><A HREF="https://nebenan.de/team" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Über uns. Wer wir sind und was uns antreibt | nebenan.de</A>
+                        <DT><A HREF="https://neoverv.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Technology Capability Builders - Realign, Innovate &amp; Boost Technology</A>
+                        <DT><A HREF="https://www.golfpost.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Become part of the best team | Golf Post</A>
+                        <DT><A HREF="https://de.dmgmori-career.com/ihr-einstieg/berufserfahrene/digitale-loesungen/consultant" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Consultant bei DMG MORI</A>
+                        <DT><A HREF="https://container-xchange.com/career/#1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs @Container xChange</A>
+                        <DT><A HREF="https://www.greenpocket.com/de/karriere#OffeneStellen" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - Werde ein Teil von GreenPocket!</A>
+                        <DT><A HREF="https://www.oetkerdigital.com/#/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Oetker Digital</A>
+                        <DT><A HREF="https://www.kollex.de/jobs#vacancies" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere bei kollex</A>
+                        <DT><A HREF="https://moguru.de/karriere/aktuelle-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobs - moguru</A>
+                        <DT><A HREF="https://berlinstartupjobs.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Berlin Startup Jobs | IT Jobs, Marketing, Internships, Sales, HR, Freelance</A>
+                        <DT><A HREF="https://minddoc.jobbase.io/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">MindDoc - by Schön Klinik</A>
+                        <DT><A HREF="https://www.hometogo.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers | HomeToGo | Vacation rentals</A>
+                        <DT><A HREF="https://www.tooltime.de/jobs-at-tooltime#Open-Positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Join the ToolTime Team</A>
+                        <DT><A HREF="https://www.wooga.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Wooga</A>
+                        <DT><A HREF="https://www.klang-games.com/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Klang Games | Game Jobs in Berlin | Klang is Hiring</A>
+                        <DT><A HREF="https://www.crytek.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Crytek - video game developer, makers of CRYENGINE</A>
+                        <DT><A HREF="https://www.yager.de/#openpositions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">YAGER</A>
+                        <DT><A HREF="https://www.leadsports.com/location/berlin" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">leAD | Start up to lead!</A>
+                        <DT><A HREF="https://startupsucht.com/?c=DE&country=DE&from=30" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ᐅ Germany Startup Jobs - 2019 | STARTUP SUCHT</A>
+                        <DT><A HREF="https://www.meinpraktikum.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Praktikum finden | Freie Stellen für Praktika auf MeinPraktikum.de</A>
+                        <DT><A HREF="https://corporate.gamigo.com/en/careers-jobs-job-offers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers – gamigo AG – Enterprise</A>
+                        <DT><A HREF="https://www.eurofins-digitaltesting.com/our-company/careers/current-vacancies/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Current Job Vacancies with Eurofins Digital Testing - Test Engineers, Consultants &amp; More</A>
+                        <DT><A HREF="https://www.medicalstartups.org/country/Germany/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Top 30 medical and healthcare startups in Germany</A>
+                        <DT><A HREF="https://www.ngena.net/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers – ngena</A>
+                        <DT><A HREF="https://www.trumpf.com/en_INT/company/karriere/vacancysearch/vacancies-for-technical-and-management-staff/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vacancies for technical and management staff | TRUMPF</A>
+                        <DT><A HREF="https://www.campusjaeger.de/jobsuche?id=740&page=1&search_id=6797446" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche - Pflichtpraktikum App-Entwicklung (m/w/d) iOS Karlsruhe</A>
+                        <DT><A HREF="https://payworks.com/careers/open-positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Open Positions - Payworks</A>
+                        <DT><A HREF="https://www.exb.de/en/jobs/#job-openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs (Munich + Leipzig) – Build the ultimate Verstehmaschine – ExB Group</A>
+                        <DT><A HREF="https://jobs.laimoon.com/uae" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Top jobs in Dubai, Abu Dhabi, Ras al Khaimah, Sharjah, Ajman (UAE) - updated January 2020 | Laimoon.com</A>
+                        <DT><A HREF="https://www.sixt.jobs/de/jobs?level=&field=&country=DE&location=#job-results" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche - Sixt Jobs</A>
+                        <DT><A HREF="https://www.codefrog.de/karriere/stellen-fuer-professionals/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellen für Professionals – CodeFrog IT GmbH</A>
+                        <DT><A HREF="https://www.codefrog.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere – CodeFrog IT GmbH</A>
+                        <DT><A HREF="https://www.new-work.se/de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | NEW WORK SE</A>
+                        <DT><A HREF="https://www.new-work.se/de/karriere/jobangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobangebote | NEW WORK SE</A>
+                        <DT><A HREF="https://jobs.osudio.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Osudio</A>
+                        <DT><A HREF="https://boards.greenhouse.io/surround" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at Bitfury Surround</A>
+                        <DT><A HREF="https://www.templeton-recruitment.com/job-search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Templeton Recruitment</A>
+                        <DT><A HREF="https://www.abracar.de/jobs/?utm_campaign=gmb_muenchen&utm_medium=referral&utm_source=gmb" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei abracar | Werde Teil unseres Teams</A>
+                        <DT><A HREF="https://jobs.emarsys.com/index.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Emarsys Careers - join the leading B2C Marketing Cloud | Emarsys</A>
+                        <DT><A HREF="https://garden.breezy.hr/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Openings at Garden</A>
+                        <DT><A HREF="https://www.comeet.com/jobs/signavio/53.00B" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at Signavio</A>
+                        <DT><A HREF="https://www.gritworld.com/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career | Gritworld GmbH | Germany</A>
+                        <DT><A HREF="https://www.utimaco.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career at Utimaco - Check our open Job offers | Utimaco GmbH</A>
+                        <DT><A HREF="https://jobs-intersystems.icims.com/jobs/search?ss=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Listings at InterSystems</A>
+                        <DT><A HREF="https://status.im/contribute/open_positions.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Status - Open Positions</A>
+                        <DT><A HREF="https://www.blancco.com/about-us/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers - Blancco</A>
+                        <DT><A HREF="https://gesundheitscloud-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei d4l data4life gGmbH</A>
+                        <DT><A HREF="https://www.thryvetalent.com/login" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">login / register</A>
+                        <DT><A HREF="https://karriere.bcgplatinion.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BCG Platinion - Karriere</A>
+                        <DT><A HREF="https://www.kimeta.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobbörse, Jobs, Stellenangebote, Jobsuchmaschine | KIMETA.DE</A>
+                        <DT><A HREF="https://www.nt-ware.com/en/jobs-applications/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs &amp; Applications // NT-ware</A>
+                        <DT><A HREF="https://www.united-domains.de/unternehmen/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Starnberg bei München | united-domains</A>
+                        <DT><A HREF="https://www.alten-engineering.de/karriere/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei ALTEN I Top Entwicklungsdienstleister in Europa</A>
+                        <DT><A HREF="https://fab4minds.com/ACM/faces/form/cms/web/index.jsp?menu_sid=5069" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">fab4minds Informationstechnik</A>
+                        <DT><A HREF="https://www.ssi-schaefer.com/service/vacancysearch/de-de/12816?query=&query-mobile=&locations=&modesOfEmployment=&taskArea=&query-desktop=&sortcriteria=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs suchen und finden | SSI SCHÄFER</A>
+                        <DT><A HREF="https://www.gebro.com/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Gebro</A>
+                        <DT><A HREF="https://jobs.passionforpeople.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Passion for People – Jobs – Passion for People – Jobs</A>
+                        <DT><A HREF="https://www.amboss.com/us/career-opportunities" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Opportunities @ AMBOSS - Jobs in Berlin, Cologne, and New York</A>
+                        <DT><A HREF="https://www.jobijoba.de/Stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Stellenangebote finden - Jobsuchmaschine JobiJoba</A>
+                        <DT><A HREF="https://expleogroup.com/join-us/?country=220&keywords=&sector=&location=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Join us - Expleo</A>
+                        <DT><A HREF="https://bookingkit.net/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs and internships in startup in Berlin | bookingkit ®</A>
+                        <DT><A HREF="https://t3n.de/jobs/suche/?radius=10" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobs in der Digitalbranche | t3n – digital pioneers</A>
+                        <DT><A HREF="https://www.gruenderszene.de/jobboerse/jobs?q=categories:it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Suche | Gründerszene Jobbörse</A>
+                        <DT><A HREF="https://startupsucht.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ᐅ Startup Jobs &amp; Cofounder Jobs - 2019 | STARTUP SUCHT</A>
+                        <DT><A HREF="https://www.yourjob.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Stellenangebote immer aktuell | yourjob.de</A>
+                        <DT><A HREF="https://jobs.diconium.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">diconium GmbH Jobportal</A>
+                        <DT><A HREF="https://www.sumcumo.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Karriere · sum.cumo</A>
+                        <DT><A HREF="https://www.dotsource.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | dotSource – die E-Commerce Agentur</A>
+                        <DT><A HREF="https://www.hubject.com/en/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Hubject | Jobs - starte deine Karriere in der Elektromobilität</A>
+                        <DT><A HREF="https://www.avertim.com/en/jobs?c=Germany&f=All&i=All&l=All" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | AVERTIM</A>
+                        <DT><A HREF="https://www.valantic.com/jobs/allejobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">JOBS - Deine Karriere als Entwickler, Data Scientist, Berater, Creative | valantic</A>
+                        <DT><A HREF="https://earlybrands.de/karriere/innovation-technology-consultant/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Innovation &amp; Technology Consultant - EARLY BRANDS GMBH</A>
+                        <DT><A HREF="https://www.hitschler.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | hitschler.de</A>
+                        <DT><A HREF="https://www.veniture.net/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | venITure - Ihr Atlassian Solution Partner</A>
+                        <DT><A HREF="https://www.tecalliance.net/en/career/vacant-positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vacant Positions | TecAlliance</A>
+                        <DT><A HREF="https://jobs.webasto.com/go/Absolventen-und-Berufseinsteiger/4078801/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Webasto Karriere - Absolventen und Berufseinsteiger</A>
+                        <DT><A HREF="https://www.doubleslash.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566" ICON_URI="https://www.doubleslash.de/typo3conf/ext/const_package/Resources/Public/Icons/Favicons/DoubleSlash/favicon-32x32.png" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACc0lEQVRYR+1XPWtiQRQ9KmFZUTYE3cIuYGMTDP4Bo8QikCJqjBj8aAQLm0jKYFxEEJNKE7sNiGRZRBuzZDHiR2MlYqGFYCzSKGib4Iqu7swsCQjZhLg+0vjgFO8N955zz8ybmcvDOz+8V/gFZPwzwYcZdQ5IXJfg97/iXxNgIYHHBB9nFNAncV8Ivs0igIqLr6+v77vdbvD5/DdpGI/HODs7Q7VavSSBVoLJcwlecoAyXhoMBnMikZhJgMlkQiqV+k7y7BOMFwIWDiwcWDiwcGDuDnS7XQiFQohEIpZ7NBqh1+tBIpFAIBCA0634/v4eVqsVSqUSx8f0wARqtRocDgeCwSA2NzdhNBq5OwuuflzBvGdGPB6HXq9nAg4PDykh8vk8VldXuRPQ7/exu7uLh4cHpNNpiMViNBoNaDQauFwueL1e0OOYsym4ublhVV9cfCUke6z6o6MjxGIxFAoFyOVy7gQMBgNYLBZ0Oh1c/7zG8qdltFotqNVq2Gw2BAIBJogzB4rFIra3t3EePYfNamNkfr8f0WiUzb1CoeBOwHA4hN1uR7PZRCaTwcrKCu7u7rCxsYGdnR2cnp6Cx/t7yeLEgVKphK2tLUbkdDoZ0cnJCUKhEHK5HNbW1p72mrkLoAkpaaVSYWRSqRTtdputfK1Wi0gkMnVvnKuAZDKJcrkMnU7H5pvekukTDofh8/mQzWahUqmmdtq5C6jX6+w3Ozg4gEwmY2SpVBK3ty14PB4sLS1xJ+DxWj6ZTJ4W2SPbc9/mtQjfvTGhhdDWzEtAW7NnO5sp36dfaAG/CGZuzWg62pxKCf6nOe2R+Jmb0xcKnM/QH/EM2zDDJc82AAAAAElFTkSuQmCC">Stellenangebote - machen Sie Karriere bei doubleSlash</A>
+                        <DT><A HREF="https://www.scandio.de/jobs/en/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Munich, Augsburg and Berlin for IT Consultants, Software Developers, Systems Engineers and other vacancies</A>
+                        <DT><A HREF="https://www.pip-it.com/projekte/jobangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobangebote als SAP Software Entwickler - PIP IT Consulting GmbH</A>
+                        <DT><A HREF="https://www.bwi.de/karriere/stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BWI - IT für Deutschland: Stellenangebote</A>
+                        <DT><A HREF="https://www.ivoclarvivadent.at/de-at/stellenanzeigen-in-wien/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenanzeigen in Wien / Job offers in Vienna</A>
+                        <DT><A HREF="https://ds-automotion-gmbh.jobbase.io/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">DS AUTOMOTION GmbH</A>
+                        <DT><A HREF="https://jobs.jedox.com/Jobs/2#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Home | Jedox Application Management | Haufe Talent Management</A>
+                        <DT><A HREF="https://www.sofha.de/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers | SOFHA GmbH in Berlin</A>
+                        <DT><A HREF="https://www.biomax.com/about/?tab=5" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">About – Biomax Informatics AG</A>
+                        <DT><A HREF="https://www.insiders-technologies.de/home/career/jobfinder.html#/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobfinder</A>
+                        <DT><A HREF="https://www.meelogic.com/en/job-offers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Meelogic Consulting AG</A>
+                        <DT><A HREF="https://www.synergie.de/bewerber/offene-stellen.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Stellen | SYNERGIE</A>
+                        <DT><A HREF="https://www.meetnow.eu/karriere?lang=en" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KARRIERE | MeetNow!</A>
+                        <DT><A HREF="https://www.gotthardt.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career | Gotthardt Healthgroup AG</A>
+                        <DT><A HREF="https://dci-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei Digital Career Institute</A>
+                        <DT><A HREF="https://jobs.vispiron.com/jobs/?job-category=software" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Übersicht | VISPIRON JOBS</A>
+                        <DT><A HREF="https://orbium.com/careers/open-positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Open Positions - Orbium</A>
+                        <DT><A HREF="https://visionrecruit.org/live-opportunities/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Live Opportunities - Vision Recruit - IT Recruitment Specialists</A>
+                        <DT><A HREF="https://www.berufsstart.de/jobs/it/index.php" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs IT - Februar 2020 | Berufsstart.de</A>
+                        <DT><A HREF="https://www.exaring.de/#karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Exaring AG</A>
+                        <DT><A HREF="https://karriere.xxxlutz.de/jobs?form_position=DE.IT&67-496-view-searchForm=1&67-496-view-searchForm-post=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">XXXL Karriereportal Deutschland</A>
+                        <DT><A HREF="https://www.araneaconsult.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs – araneaCONSULT GmbH</A>
+                        <DT><A HREF="https://www.compusoftgroup.com/de/karrieren/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | Compusoft Group</A>
+                        <DT><A HREF="https://www.novomind.com/de/karriere-und-jobs-java-entwickler/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Karriere bei der novomind AG</A>
+                        <DT><A HREF="http://www.basys-it-service.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BASYS IT Service</A>
+                        <DT><A HREF="https://bertschinnovation.com/unternehmen/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Work with us! Offene Stellenangebote der Bertsch Innovation</A>
+                        <DT><A HREF="https://www.kununu.com/de/search#/?industry=GENERAL_IND_IT&country=COUNTRY_DE" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Arbeitgeber suchen auf kununu</A>
+                        <DT><A HREF="https://camunda.com/de/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers | Camunda BPM</A>
+                        <DT><A HREF="https://www.assecor.de/de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Wachse mit uns — Deutsch</A>
+                        <DT><A HREF="https://www.crytek.com/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs available at video game developer &amp; tech provider Crytek</A>
+                        <DT><A HREF="https://upvest.co/careers#open-positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Upvest | Careers</A>
+                        <DT><A HREF="https://westernacher-solutions.com/unternehmen/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ihre Karriere bei der Westernacher Solutions</A>
+                        <DT><A HREF="https://www.infosim.net/career/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career | Infosim® - Jobs, Internships, Master Thesis</A>
+                        <DT><A HREF="https://www.eyeem.com/de/jobs#openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">EyeEm | Jobs: We are hiring!</A>
+                        <DT><A HREF="https://www.team-neusta.de/karriere/offene-stellen?company=all&location=all&type=all&field=all#%23" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | team neusta Karriereportal</A>
+                        <DT><A HREF="https://javaji.de/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Javaji IT-Recruiting &amp; Software Entwicklung</A>
+                        <DT><A HREF="https://www.basf.com/global/en/careers/jobs.html#%7B%220%22%3A%5B%5B%22jobs%3Aregion%22%2C%5B%22jobs%3Aregion%2Feu%22%5D%5D%5D%7D" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Erxhini</A>
+                        <DT><A HREF="https://nextcloud.com/jobs/#qa" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Greta</A>
+                        <DT><A HREF="https://www.grz.at/de/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere</A>
+                        <DT><A HREF="https://ceteq.de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere und Stellenangebote in der Softwareentwicklung | CETEQ</A>
+                        <DT><A HREF="https://jungwild.io/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs die zu dir passen</A>
+                        <DT><A HREF="https://www.ttr-group.de/jobs/index" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TTR Group - Karriere</A>
+                        <DT><A HREF="https://www.targens.de/join/aktuelle-stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Stellenangebote</A>
+                        <DT><A HREF="https://jobs.idealo.com/l/de" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei idealo - Europas großem Preisvergleich</A>
+                        <DT><A HREF="https://jobs.tagesspiegel.de/stellenangebote/informationstechnologie" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote IT &amp; Softwareentwickler - Tagesspiegel Jobbörse</A>
+                        <DT><A HREF="https://jacobs.taleo.net/careersection/ex/jobsearch.ftl?lang=en" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Search</A>
+                        <DT><A HREF="https://exco.join.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs @ EXCO GmbH | JOIN</A>
+                        <DT><A HREF="https://codefrog.join.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs @ CodeFrog IT GmbH | JOIN</A>
+                        <DT><A HREF="https://www.quipu.de/category/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers Archives | Quipu</A>
+                        <DT><A HREF="https://www.eurostaffgroup.com/it-and-innovation/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT and Innovation Hub | Eurostaff</A>
+                        <DT><A HREF="http://www.ier-network.com/aktuelle-jobangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Paul Pleus - International Executive Recruiting - Aktuelle Jobangebote</A>
+                        <DT><A HREF="https://jobs.lever.co/fincompare" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FinCompare GmbH</A>
+                        <DT><A HREF="https://germanystartupjobs.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Startup Jobs | Find Jobs in Berlin, Germany, Deutschland</A>
+                        <DT><A HREF="https://www.mcmakler.de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere bei McMakler</A>
+                        <DT><A HREF="https://www.hensoldt-cyber.com/apply-for-a-job" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">HENSOLDT Cyber</A>
+                        <DT><A HREF="https://jobs.mgm-tp.com/aktuelle-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">mgm technology partners GmbH</A>
+                        <DT><A HREF="https://www.coyoapp.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Bewirb dich jetzt auf einen Job und werde Teil der COYO Story</A>
+                        <DT><A HREF="https://temedica.com/de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Temedica / Karriere: Gestalte die Zukunft mit uns</A>
+                        <DT><A HREF="https://www.fliit.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">fliit - Karriere</A>
+                        <DT><A HREF="https://t3n.de/firmen/suche/?tag=software" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Suche nach „software“ | t3n Firmen</A>
+                        <DT><A HREF="https://www.funkemedien.de/de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote</A>
+                        <DT><A HREF="http://www.desy.de/karriere/stellenangebote/index_ger.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - Deutsches Elektronen-Synchrotron DESY</A>
+                        <DT><A HREF="https://traton.com/de/karriere/professionals.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Professionals | TRATON</A>
+                        <DT><A HREF="https://www.studydrive.net/job-offers?query=it&radius=100" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job positions for students - Studydrive</A>
+                        <DT><A HREF="https://jobs.kuehne-nagel.com/de/de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Logistik Jobs und Stellenangebote | Kühne + Nagel</A>
+                        <DT><A HREF="https://www.rocket-internet.com/careers/companies/engineering" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Engineering Jobs in Startups | Rocket Internet</A>
+                        <DT><A HREF="https://careers.movinga.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Movinga - Welcome to our career site</A>
+                        <DT><A HREF="https://jobsearch.createyourowncareer.com/search?q=&locationsearch=&utm_source=CSSearchWidget&startrow=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers in 2019</A>
+                        <DT><A HREF="https://jobs.emea.sykes.com/Search.aspx?lang=de" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Möglichkeiten</A>
+                        <DT><A HREF="https://www.berliner-jobmarkt.de/stellenangebote/berlin/digital" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote Digital in Berlin gesucht | berliner-jobmarkt.de</A>
+                        <DT><A HREF="https://de.jooble.org/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Deutschland — 674.000+ aktuelle Stellenangebote — Jooble</A>
+                        <DT><A HREF="https://www.real-time-systems.com/de/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - Real-Time Systems</A>
+                        <DT><A HREF="https://www.utilitas.net/karriere/#openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - utilitas</A>
+                        <DT><A HREF="https://www.ecovis.com/stellenangebote/alle-stellenanzeigen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ecovis Europe AG</A>
+                        <DT><A HREF="https://www.internetx.com/internetx/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Deine Karriere bei InterNetX – Bewirb dich jetzt!</A>
+                        <DT><A HREF="https://www.iso-gruppe.com/de/iso-recruiting-consultants/karriere/die-vakanzen-bei-der-irc-auf-einen-blick.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Die Vakanzen der IRC auf einen Blick - ISO Recruiting Consultants</A>
+                        <DT><A HREF="https://www.designerdock.com/en/for-applicants/search-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">DESIGNERDOCK: Search jobs</A>
+                        <DT><A HREF="https://jobs.tech.eu/jobs?page=1&pl%5B%5D=en&hd=false&t_co=false&t_st=false" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Tech.eu Jobs</A>
+                        <DT><A HREF="https://boards.greenhouse.io/fitogram" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at Fitogram</A>
+                        <DT><A HREF="https://www.jobsintown.de/jobsuche/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche | Stellenbörse: Jobs &amp; Stellenangebote auf jobsintown.de</A>
+                        <DT><A HREF="https://unisys.wd5.myworkdayjobs.com/External/4/refreshFacet/318c8bb6f553100021d223d9780d30be" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Search for Jobs</A>
+                        <DT><A HREF="https://www.cuculus.net/de/Unternehmen/Karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - Unternehmen - Cuculus GmbH</A>
+                        <DT><A HREF="https://career5.successfactors.eu/career?company=einkaufsbr&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=Ythr9dkEkyWN%2fDdp61pW831GtJQ%3d" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career Opportunities</A>
+                        <DT><A HREF="https://www.yourfirm.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Yourfirm: Stellenangebote &amp; Jobs im Mittelstand TESTSIEGER</A>
+                        <DT><A HREF="https://vimopro.de/job/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT-Consultant in Villingen-Schwenningen und Stuttgart – vimopro GmbH</A>
+                        <DT><A HREF="https://career.curevac.com/eng" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CureVac AG</A>
+                        <DT><A HREF="https://www.igefa.de/karriere/job-suche" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Finden Sie Ihren passenden Job bei der igefa | Igefa</A>
+                        <DT><A HREF="http://www.bpower.de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - b.power GmbH</A>
+                        <DT><A HREF="https://alteos.com/de/arbeitspl%c3%a4tze/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Positionen</A>
+                        <DT><A HREF="https://tds.io/en/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Truventuro Digital Solutions / Jobs: We are looking for the leaders of tomorrow</A>
+                        <DT><A HREF="https://www.volders.de/karriere#job-openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Volders</A>
+                        <DT><A HREF="https://db.alumni.tum.de/jobs/search?language=en" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TUM Jobportal</A>
+                        <DT><A HREF="https://recruiting.fraunhofer.de/Jobs/2?lang=eng" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Login | Fraunhofer-Gesellschaft Bewerbermanagement | Haufe Talent Management</A>
+                        <DT><A HREF="https://www.top-jobs-europe.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - top-jobs-europe Consulting GmbH</A>
+                        <DT><A HREF="https://www.stellenanzeigen.de/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote und Jobs auf der Jobbörse von stellenanzeigen.de Arbeit finden</A>
+                        <DT><A HREF="https://www.karrieretipps.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karrieretipps - Das aktuelle Job und Karriereportal</A>
+                        <DT><A HREF="https://de.jobted.com/it-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT Jobs: 98.459 Stellenangebote | Jobted</A>
+                        <DT><A HREF="https://www.xn--jobbrse-stellenangebote-blc.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobbörse &amp; Stellenangebote | www.jobbörse-stellenangebote.de</A>
+                        <DT><A HREF="https://www.roberthalf.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs suchen | Robert Half</A>
+                        <DT><A HREF="https://www.engfer-consulting.de/de/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Engfer Consulting - Personalberatung</A>
+                        <DT><A HREF="https://www.orderbird.com/de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | orderbird</A>
+                        <DT><A HREF="https://jobs.integr8.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vielseitige Online-Marketing-Jobs | INTEGR8</A>
+                        <DT><A HREF="https://www.timepartner.com/jobsuche" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche | TimePartner</A>
+                        <DT><A HREF="https://www.spreadshirt.de/jobs-C1335" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Lust auf neue Herausforderungen? Jobs &amp; Praktika bei Spreadshirt</A>
+                        <DT><A HREF="https://www.fz-juelich.de/portal/EN/Careers/_node.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Forschungszentrum Jülich - Careers</A>
+                        <DT><A HREF="https://career.twt-gmbh.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TWT GmbH Science &amp; Innovation: Karriere</A>
+                        <DT><A HREF="https://www.architrave.de/karriere/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Architrave</A>
+                        <DT><A HREF="https://www.adesso.de/de/jobs-karriere/unsere-stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">adesso SE</A>
+                        <DT><A HREF="https://www.e-mundo.de/de/jobs/munich" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">eMundo — Aktuelle Stellen­angebote</A>
+                        <DT><A HREF="https://www.dis-ag.com/stellenangebote/cat-it-informationstechnologie/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">80 Jobangebote gefunden: IT /Informationstechnologie | DIS AG</A>
+                        <DT><A HREF="https://jobsearch.createyourowncareer.com/Mediengruppe_RTL/search/?createNewAlert=false&q=&locale=de_DE&locationsearch=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karrieren bei 2019</A>
+                        <DT><A HREF="https://www.schulmeister-consulting.com/fuer-kandidatinnen/stellenangebote/jobs-im-bereich-software-it-telekom/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs im Bereich Software / IT / Telekom</A>
+                        <DT><A HREF="https://www.nagarro.com/de/openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Openings | Nagarro | Germany</A>
+                        <DT><A HREF="https://codemanufaktur.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Deine Karriere bei der codemanufaktur in Erlangen</A>
+                        <DT><A HREF="https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx#Informationstechnik/S:258" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">DLR - Jobs &amp; Careers - Homepage</A>
+                        <DT><A HREF="https://staiy.com/content/work-with-us" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">WORK WITH US | Staiy</A>
+                        <DT><A HREF="https://jobs.danaher.com/global/en/beckman-coulter-diagnostics-search-results?s=1&rk=l-beckman-coulter-diagnostic-search-results" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Beckman Coulter Diagnostic Search Results | Danaher jobs in Beckman Coulter Diagnostic</A>
+                        <DT><A HREF="https://www.adjust.com/company/careers/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers | Join our team | Open Positions | Adjust</A>
+                        <DT><A HREF="https://www.iba-careers.com/?page=career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Give your career a new meaning - IBA Group - IBA Careers</A>
+                        <DT><A HREF="https://de.jobrapido.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs, Arbeit, Stellenangebote | Jobrapido.com</A>
+                        <DT><A HREF="https://job-ambition-gmbh-jobs.personio.de/#department-386855" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei Job Ambition GmbH</A>
+                        <DT><A HREF="https://demodesk.com/about#positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">About Demodesk</A>
+                        <DT><A HREF="https://career.sharpist.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers - Jobs - Sharpist</A>
+                        <DT><A HREF="https://www.wandelbots.com/career/#rt-jobs-1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career EN | Wandelbots</A>
+                        <DT><A HREF="https://coachhub.io/career/#162918" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs &amp; Career at CoachHub - CoachHub</A>
+                        <DT><A HREF="https://www.klarx.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">klarx - Jobs</A>
+                        <DT><A HREF="https://karriere.zeb.de/karriere/jobsuche?utm_source=zeb-consulting.com&utm_medium=Landingpage&utm_campaign=Redirect&job_level=36862#jobsuche" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche bei zeb: Informationen zu Ihrer Bewerbung | zeb</A>
+                        <DT><A HREF="https://careers.tt-s.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield2=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers at tts</A>
+                        <DT><A HREF="https://www.all-for-one.com/de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Wir bewerben uns. Bei dir.</A>
+                        <DT><A HREF="https://jobs.ecx.io/eng" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Your career @ ecx.io</A>
+                        <DT><A HREF="https://www.ivu.de/bewerben/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IVU | Stellenangebote</A>
+                        <DT><A HREF="https://unit-it.at/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Deine IT-Karriere - Jobs bei [unit]IT in Leonding und Ranshofen</A>
+                        <DT><A HREF="https://www.itpro.at/de/karriere/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobausschreibungen | Android Developer | Web-Developer</A>
+                        <DT><A HREF="https://www.binderholz.com/karriere/offene-stellen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Stellen | binderholz</A>
+                        <DT><A HREF="https://www.new-work.se/en/career/vacancies" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | NEW WORK SE | NEW WORK SE</A>
+                        <DT><A HREF="https://www.ecc-experts.info/stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs für Fach- und Führungskräfte | eXperts consulting center</A>
+                        <DT><A HREF="https://karriere.foerch.com/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Theo Förch GmbH &amp; Co. KG</A>
+                        <DT><A HREF="https://www.biteno.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT Jobs bei Biteno - Ihr Arbeitgeber in Stuttgart</A>
+                        <DT><A HREF="https://www.indasys.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ihr Arbeitsplatz in der IT Branche bei indasys - indasys Gruppe</A>
+                        <DT><A HREF="https://www.heitmann-it.net/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - Heitmann IT</A>
+                        <DT><A HREF="https://zalvus.com/de-de/themen/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Thema: Jobs</A>
+                        <DT><A HREF="https://zalvus.com/de-de/pag-74/ueber_zalvus" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Über Zalvus // Karriere</A>
+                        <DT><A HREF="https://www.stellenanzeigen.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Die Jobbörse stellenanzeigen.de bietet Jobs und Stellenangebote und hilft bei der Jobsuche</A>
+                        <DT><A HREF="https://www.zolar.de/karriere/office-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Stellen im Office bei zolar - Jetzt bewerben! | zolar</A>
+                        <DT><A HREF="https://www.campusjaeger.de/jobsuche?id=8057&page=1&search_id=9422782&utm_campaign=spreading-2019-11&utm_medium=jobboard-jobposting&utm_source=absolventa" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche - (Pflicht-) Praktikum Online Marketing (m/w/d) Redaktion &amp; Social Media</A>
+                        <DT><A HREF="https://www.wbs-law.de/karriere/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Bewerben Sie sich jetzt</A>
+                        <DT><A HREF="https://softgarden.career.softgarden.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriereseite und Stellenangebote – softgarden</A>
+                        <DT><A HREF="https://mastersearch.co.uk/category/job-categories/research-development-and-engineering" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Research &amp; Development and Engineering Archives - Mastersearch</A>
+                        <DT><A HREF="https://www.deepbluerecruitment.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Deep Blue Recruitment</A>
+                        <DT><A HREF="https://www.astraia.com/en/home/jobs.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">astraia software gmbh - Careers</A>
+                        <DT><A HREF="https://www.universal-music.de/company/jobs-karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Company | Jobs</A>
+                        <DT><A HREF="https://www.sonymusic.at/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | Sony Music Entertainment Austria GmbH</A>
+                        <DT><A HREF="https://ippen-digital.jobbase.io/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ippen Digital</A>
+                        <DT><A HREF="https://stellenmarkt.faz.net/suchergebnis?jw_search_id=31871454325928579&jw_start_count=0" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FAZ Stellenmarkt: Jobs für Fach- und Führungskräfte finden</A>
+                        <DT><A HREF="https://www.udg.de/de-de/jobs?visibleJobs=24" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Digitale (Traum) Jobs | UDG United Digital Group</A>
+                        <DT><A HREF="https://www.oxid.jobs/jobs/#c11247" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">OXID Jobs auf einen Blick</A>
+                        <DT><A HREF="https://www.hijob.me/en/department/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">hijob - mobile Jobbörse für Fachkräfte &amp; Führungskräfte</A>
+                        <DT><A HREF="https://sinovo.de/de/e-health-individualsoftware-digital-workplace" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Sinovo - Über SINOVO</A>
+                        <DT><A HREF="https://karriere.akquinet.de/jobangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs</A>
+                        <DT><A HREF="https://www.sandata.net/main.asp?VID=1&lng=1&kat1=111&kat2=719&action=search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unsere offenen Stellen - wir freuen uns auf Ihre Bewerbung</A>
+                        <DT><A HREF="https://www.piening-personal.de/de/fuer-bewerber/jobboerse.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobbörse: Stellenangebote und offene Jobs - Piening Personal</A>
+                        <DT><A HREF="https://www.yourxpert.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Stellenausschreibungen ➤ yourXpert</A>
+                        <DT><A HREF="https://www.moberries.com/jobs?category=5" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Positions on MoBerries</A>
+                        <DT><A HREF="https://www.opusone.team/stellenboerse/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenbörse - Opus One Recruitment</A>
+                        <DT><A HREF="https://usercentrics.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Your Career at Usercentrics | Do Not Only Find a Job But a Family</A>
+                        <DT><A HREF="https://urano.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | URANO IT-Lösungspartner</A>
+                        <DT><A HREF="https://www.coupies.de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">COUPIES - Clever sparen beim Einkauf im Supermarkt</A>
+                        <DT><A HREF="https://taxfix.de/en/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers - Taxfix</A>
+                        <DT><A HREF="https://www.finleap.com/careers/tech/#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Tech &amp; Developer Jobs in Fintech &amp; Insurtech | finleap</A>
+                        <DT><A HREF="https://www.la2.de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">LA2 - Karriere</A>
+                        <DT><A HREF="https://www.oxid.jobs/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">OXID Jobs auf einen Blick</A>
+                        <DT><A HREF="https://jobs.giz.de/index.php?" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unsere Stellenangebote | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH</A>
+                        <DT><A HREF="https://www.schrott24.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere bei Schrott24 | Jobs und offene Stellen</A>
+                        <DT><A HREF="https://28apps.de/karriere#open-offers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Warum es cool ist, bei 28apps zu arbeiten? | 28Apps Software GmbH</A>
+                        <DT><A HREF="https://vivy-jobs.personio.de/#department-64850" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei Vivy</A>
+                        <DT><A HREF="https://careers.joyn.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | Joyn Careers</A>
+                        <DT><A HREF="https://www.antrago.de/karriere/festanstellung/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ihr Einstieg bei der RR Software GmbH</A>
+                        <DT><A HREF="https://www.hugendubel.com/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - Hugendubel GmbH &amp; Co. KG</A>
+                        <DT><A HREF="https://www.esrlabs.com/careers/vacancies/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ESR Labs｜Vacancies</A>
+                        <DT><A HREF="https://www.parity.io/jobs/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">We’re Hiring - Startup Jobs | Parity Technologies</A>
+                        <DT><A HREF="https://www.jobs.net/jobs/cwsc/en-us/all-jobs/?idpartenaire=10119&locationf=Stuttgart-_-Baden--W%C3%BCrttemberg" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">JOBS IN STUTTGART, BW AT COMPUTER WORLD SERVICES, CORP.(CWS)</A>
+                        <DT><A HREF="https://www.gruenderszene.de/jobboerse/home" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Übersicht | Gründerszene Jobbörse</A>
+                        <DT><A HREF="https://www.tailored-apps.com/deutschland/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Deutschland | Tailored Apps - App Entwicklung Wien, München, Marktführer Österreich, iOS, Android</A>
+                        <DT><A HREF="https://www.gulp.de/gulp2/g/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">GULP</A>
+                        <DT><A HREF="https://bechtle-jobs.com/index.php?ac=search_result" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unsere Stellenangebote | Bechtle AG</A>
+                        <DT><A HREF="https://www.brose.com/de-en/it-jobs-at-brose/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Automotive IT Jobs at Brose - Automotive supplier Brose Fahrzeugteile</A>
+                        <DT><A HREF="https://expertum.de/jobboerse/?query=&ort=&bereich=IT&art=#c" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">» Jobbörse | expertum</A>
+                        <DT><A HREF="https://www.talentroad.de/talent" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Talentroad | Talent</A>
+                        <DT><A HREF="https://www.regio-jobanzeiger.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Regio-Jobanzeiger - Ihre regionale Jobbörse</A>
+                        <DT><A HREF="https://www.heyjobs.co/de-de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">HeyJobs | 350.811 Jobs | Die Recruiting-Lösung von 1250+ Unternehmen</A>
+                        <DT><A HREF="https://www.jobware.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobware.de</A>
+                        <DT><A HREF="https://www.service.bund.de/Content/DE/Stellen/Suche/Formular.html?nn=4642046&cl2Categories_Taetigkeitsfeld=taetigkeitsfeld-itundtelekommunikation" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SERVICE.BUND.DE - Stellenangebote, Ausbildungsplätze und Studiengänge der öffentlichen Verwaltung Deutschlands (Bund, Länder, Städte und Kommunen)</A>
+                        <DT><A HREF="https://www.ajobis.de/jobs/ulm/vollzeitstellen" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vollzeitstellen Ulm, 482 Stellenangebote - AJobis.de</A>
+                        <DT><A HREF="https://www.jobvector.de/stellensuche/?sort=dateStart&pn=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei jobvector</A>
+                        <DT><A HREF="https://www.alexiontalent.com/it-software/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT &amp; Digital - Alexion Global Talents</A>
+                        <DT><A HREF="https://www.proffile.de/maps/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://www.proffile.de/maps/</A>
+                        <DT><A HREF="https://www.perm4.com/fuer-kandidaten/leistungsbereiche/perm4-it-tk/#stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Personalberatung IT &amp; Telekommunikation – PERM4 | IT/TK</A>
+                        <DT><A HREF="https://www.jobino.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobino.de</A>
+                        <DT><A HREF="https://it-jobs.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT Jobs &amp; Stellenangebote - IT-Jobs.de</A>
+                        <DT><A HREF="https://www.haveanicejob.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kalofsh mirë | Bordi i punës: mijëra oferta pune</A>
+                        <DT><A HREF="https://www.stellen24.de/suche-stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">stellen24.de</A>
+                        <DT><A HREF="https://www.jobsuma.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuma - Motori juaj i kërkimit të punës për punët e studentëve, stazhet dhe më shumë</A>
+                        <DT><A HREF="https://www.powerteam.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Personaldienstleistungen München | Powerteam</A>
+                        <DT><A HREF="https://www.jobactive.de/home" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Shtëpi - Jobaktive</A>
+                        <DT><A HREF="https://jobs.aide.de/karriere/#/Jobboard/audience/1005/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Starten Sie jetzt Ihre Karriere bei AIDe</A>
+                        <DT><A HREF="https://www.linear-software.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | Linear Service GmbH</A>
+                        <DT><A HREF="https://www.ppro.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">anisa</A>
+                        <DT><A HREF="https://mcmakler.join.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs @ McMakler GmbH | JOIN</A>
+                        <DT><A HREF="https://jobs.rosen-group.com/Jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Portal</A>
+                        <DT><A HREF="https://www.serrala.com/about-serrala/careers/job-market" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Market</A>
+                        <DT><A HREF="https://careers.intuitive.com/jobs?page=1&locations=Amsterdam,,Netherlands%7CAntwerp,,Belgium%7CBavaria,,Germany%7CBordeaux,,France%7CDenzlingen,,Germany%7CDusseldorf,,Germany%7CFreiburg,,Germany%7CHessen,,Germany%7CLeipzig,,Germany%7CMarseille,,France%7CNorth%20Rhine%20Westphalia,,Germany%7CParis,,France%7CPrague,,Czech%20Republic%7CVienna,,Austria%7CZurich,,Switzerland%7C,,Belgium%7C,,Germany&categories=Finance%20and%20Accounting%7CIT%2FInformation%20Systems" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Intuitive Surgical Job Search - Jobs - Page 1</A>
+                        <DT><A HREF="https://goodjobs.eu/de" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Nachhaltige Jobs mit Sinn finden | GoodJobs</A>
+                        <DT><A HREF="https://www.itemis.com/de/jobs/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">itemis</A>
+                        <DT><A HREF="https://de.expleogroup.com/?keywords&sector&location&post=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Expleo Germany</A>
+                        <DT><A HREF="https://www.ancud.de/jobs-und-karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ancud IT-Beratung GmbH</A>
+                        <DT><A HREF="https://www.communardo.de/karriere/direkteinstieg/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Communardo Software GmbH</A>
+                        <DT><A HREF="https://www.get-in-it.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">get in IT</A>
+                        <DT><A HREF="https://www.bjc-its.de/jobsearch" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Best Job IT Experts Gjermani</A>
+                        <DT><A HREF="https://jobboerse.arbeitsagentur.de/vamJB/startseite.html?aa=1&m=1&kgr=as&vorschlagsfunktionaktiv=true" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Germany</A>
+                        <DT><A HREF="https://www.expatica.com/de/employment/finding-a-job/work-in-germany-finding-a-job-in-germany-102718/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Expat Guide to Germany</A>
+                        <DT><A HREF="https://www.akka-technologies.com/jobs-list/?job_c[]=job_offer_family_en_6129&job_order=date&search=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Akka Technologies</A>
+                        <DT><A HREF="https://jobs.iqvia.com/en-US/search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IQVIA™</A>
+                        <DT><A HREF="https://www.ircgmbh.de/en/vacancies/personnel-placement/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Personnel Placement IRC GmbH</A>
+                        <DT><A HREF="https://www.lemonize.de/en/home#section_about" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Lemonize. ulm</A>
+                        <DT><A HREF="https://www.aristaflow.com/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">AristaFlow</A>
+                        <DT><A HREF="https://www.silexica.com/careers/#jobs-reached" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Silexica</A>
+                        <DT><A HREF="https://holoplot.com/about/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Holoplot</A>
+                        <DT><A HREF="https://vivy-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vivy</A>
+                        <DT><A HREF="https://jobs.lever.co/honeypot" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Honeypot GmbH</A>
+                        <DT><A HREF="https://twaice.com/career/#open-positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TWAICE</A>
+                        <DT><A HREF="https://jobs.lever.co/freighthub" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FreightHub</A>
+                        <DT><A HREF="https://talentcube.de/ueber-uns/#Joboffers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TALENTCUBE</A>
+                        <DT><A HREF="https://ubirch.de/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ubirch</A>
+                        <DT><A HREF="https://agrilution-jobs.personio.de/#permanent" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">agrilution</A>
+                        <DT><A HREF="https://talpasolutions.join.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">talpasolutions GmbH</A>
+                        <DT><A HREF="https://www.teleclinic.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TeleClinic</A>
+                        <DT><A HREF="https://www.jobrocker.com/en/it-development" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">JobRocker</A>
+                        <DT><A HREF="https://www.iplytics.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IPlytics</A>
+                        <DT><A HREF="https://careers.jimdo.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jimdo GmbH</A>
+                        <DT><A HREF="https://kreditech.com/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kreditech</A>
+                        <DT><A HREF="https://talon.one/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Talon.One</A>
+                        <DT><A HREF="https://talonone.bamboohr.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Talon One</A>
+                        <DT><A HREF="https://www.advaoptical.com/en/about-us/careers/career-opportunities?department=All%20departments&country=All%20countries&language=All%20languages&Page=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Adva</A>
+                        <DT><A HREF="https://jobs.cegeka.de/vacancy" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CEGEKA Deutschland</A>
+                        <DT><A HREF="https://www.relotec-online.de/ueber-uns/it-systemtechniker-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ReLoTec</A>
+                        <DT><A HREF="https://www.think-cell.com/en/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">think-cell</A>
+                        <DT><A HREF="https://www.xing.com/events/discover/c-networking-veranstaltungen" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">XING Events</A>
+                        <DT><A HREF="https://www.computerfutures.com/en-gb/job-search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Computer Futures</A>
+                        <DT><A HREF="https://www.quadriga.eu/en/career/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Quadriga</A>
+                        <DT><A HREF="https://www.cyberforum.de/en/offers/students/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Students: Your entry into the IT industry</A>
+                        <DT><A HREF="https://careers.sophos.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Sophos Ltd</A>
+                        <DT><A HREF="https://www.personio.com/about-personio/jobs/#scroll-to-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Personio</A>
+                        <DT><A HREF="https://mytoysgroup.jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">MYTOYS GROUP</A>
+                        <DT><A HREF="https://univativ.com/de/jobboerse/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Unativ</A>
+                        <DT><A HREF="https://www.contractor.de/karriere/jobangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Contractor Consulting</A>
+                        <DT><A HREF="https://lennonwright.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Lennon Wright</A>
+                        <DT><A HREF="https://mytalentscout.starhunter.software/Headhunter/project/job-ad/hash/5cb82467139c4" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">mytalentscout Bewerbung</A>
+                        <DT><A HREF="https://www.embarc.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">embarc</A>
+                        <DT><A HREF="https://www.novatec-gmbh.de/karriere/#job-listings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Novatec</A>
+                        <DT><A HREF="https://www.thoughtworks.com/careers/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ThoughtWorks</A>
+                        <DT><A HREF="https://arborsys.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">arborsys GmbH</A>
+                        <DT><A HREF="https://www.schreinert.com/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Schreinert IT Consulting</A>
+                        <DT><A HREF="https://www.konzept-is.de/de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Konzept-IS</A>
+                        <DT><A HREF="https://datev.wd3.myworkdayjobs.com/Datev_Careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Datev</A>
+                        <DT><A HREF="https://www.otrisprojects.de/karriere/#applikationsentwickler-webtechnologie-m-w-d-in-ulm" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">otrisPROJECTS</A>
+                        <DT><A HREF="https://www.it-sure.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT sure GmbH</A>
+                        <DT><A HREF="https://www.quanto-solutions.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Quanto</A>
+                        <DT><A HREF="https://jobs.conplement.de/?utm_source=homepage&utm_medium=link&utm_campaign=homepagelink" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">conplement AG</A>
+                        <DT><A HREF="https://www.roc-search.com/job-search/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Roc Search</A>
+                        <DT><A HREF="https://mytalentscout.de/about-team/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">myTalentscout</A>
+                        <DT><A HREF="https://jobboerse.strabag.at/jobs-overview.php?arbeitgeber=ED.+Z%C3%9CBLIN+AG|F.K.+SYSTEMBAU+GMBH|WOLFER+%26+GOEBEL+BAU+GMBH|Z%C3%9CBLIN+BAU+GMBH|Z%C3%9CBLIN+CHIMNEY+AND+REFRACTORY+GMBH|Z%C3%9CBLIN+HOCH-+UND+BR%C3%9CCKENBAU+GMBH|Z%C3%9CBLIN+NEDERLAND+B.V.|Z%C3%9CBLIN+SPEZIALTIEFBAU+GES.M.B.H.|Z%C3%9CBLIN+SPEZIALTIEFBAU+GMBH|Z%C3%9CBLIN+STAHLBAU+GMBH|Z%C3%9CBLIN+TIMBER+GMBH|Z%C3%9CBLIN+UMWELTTECHNIK+GMBH|ITC+ENGINEERING+GMBH+%26+CO.+KG|REPASS-SANIERUNGSTECHNIK+GMBH+KORROSIONSSCHUTZ+UND+BETONINSTANDSETZUNG|TORKRET+GMBH&language=DE_DE" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">STRABAG</A>
+                        <DT><A HREF="https://karriere.heise-gruppe.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Heise Gruppe</A>
+                        <DT><A HREF="https://www.kalaydo.de/jobboerse/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">kalaydo.de</A>
+                        <DT><A HREF="https://globalct.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Global CT</A>
+                        <DT><A HREF="https://www.haufegroup.com/en/career/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Haufe Group</A>
+                        <DT><A HREF="http://www.agap2.de/de/industries/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">agap2</A>
+                        <DT><A HREF="https://www.eyeled.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Eyeled GmbH</A>
+                        <DT><A HREF="https://jobs.in-tech.com/cgi-bin/appl/selfservice.pl?lang=de&layout=10&css_loc_nr=12B87EE0-C700-11D4-8972-0050BAC69B70" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">in-tech Stellenbörse</A>
+                        <DT><A HREF="https://www.noris.de/karriere/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">noris network AG</A>
+                        <DT><A HREF="https://auticon.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">auticon</A>
+                        <DT><A HREF="https://www.pixida.jobs/en/career/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs</A>
+                        <DT><A HREF="https://www.messen.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Messen 2019/2020 - Messe und Messetermine im Messekalender Deutschland von Messen.de</A>
+                        <DT><A HREF="https://esmt.berlin/jobs/staff-positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ESMT Berlin</A>
+                        <DT><A HREF="https://www.xbird.io/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">xbird | Medical AI</A>
+                        <DT><A HREF="https://platinion.avature.net/CareersDeEN" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">platinion</A>
+                        <DT><A HREF="https://camunda.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Camunda BPM</A>
+                        <DT><A HREF="https://labiotech.eu/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Labiotech.eu</A>
+                        <DT><A HREF="https://it-novum.com/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">it-novum</A>
+                        <DT><A HREF="https://www.semvox.de/semvox/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">paragon semvox GmbH</A>
+                        <DT><A HREF="https://e-bot7.de/en/engineering-jobs#positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ebot7</A>
+                        <DT><A HREF="https://jobpal.ai/en/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">jobpal</A>
+                        <DT><A HREF="https://relayr.io/about/join-us/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">relayr</A>
+                        <DT><A HREF="https://mergerspot.de/#/career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Mergerspot</A>
+                        <DT><A HREF="https://www.ampada.de/index.php/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ampada GmbH</A>
+                        <DT><A HREF="https://www.billie.io/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Billie-Team</A>
+                        <DT><A HREF="https://www.freeletics.com/en/corporate/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Freeletics</A>
+                        <DT><A HREF="https://www.simplesurance.com/careers/#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">simplesurance</A>
+                        <DT><A HREF="https://icw-global.com/company/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">InterComponentWare AG (ICW)</A>
+                        <DT><A HREF="https://www.contentful.com/careers/#openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Contentful</A>
+                        <DT><A HREF="https://eyeo.com/jobs/#!/available_positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">eyeo GmbH</A>
+                        <DT><A HREF="https://careers.movinga.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Movinga</A>
+                        <DT><A HREF="https://www.auto1-group.com/jobs/?country=Germany&departments=FinTech,Technology" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">AUTO1</A>
+                        <DT><A HREF="https://www.smartpatient.eu/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">smartpatient gmbh</A>
+                        <DT><A HREF="https://www.biopark-regensburg.de/en/job-market.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BioPark Regensburg GmbH</A>
+                        <DT><A HREF="https://www.biopark-regensburg.de/en/companies-from-a-z.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Companies from A - Z - BioPark Regensburg GmbH</A>
+                        <DT><A HREF="https://www.timepartner.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TimePartner</A>
+                        <DT><A HREF="https://idealo.jobbase.io/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Idealo</A>
+                        <DT><A HREF="https://proglove.breezy.hr/?&location=M%C3%BCnchen,%20DE#positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ProGlove</A>
+                        <DT><A HREF="https://de.indeed.com/viewjob?jk=6fc1742839e935bd&from=tp-serp&tk=1dm0j7vpk149p000" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">(Junior) Tech Recruiter (m/f/*) - Berlin - Indeed.com</A>
+                        <DT><A HREF="https://en.wikipedia.org/wiki/List_of_universities_in_Germany" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">List of universities in Germany - Wikipedia</A>
+                        <DT><A HREF="https://stellenmarkt.sueddeutsche.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenmarkt der SZ</A>
+                        <DT><A HREF="https://stellenmarkt.faz.net/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FAZ Stellenmarkt</A>
+                        <DT><A HREF="https://www.integration-factory.de/berufsbild-junior-consultant/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Berufsbild Junior Consultant - integration-factory</A>
+                        <DT><A HREF="https://www.itzbund.de/SiteGlobals/Forms/Webs/DfD/Suche-Stellenangebote/Suche-Stellenangebote_Formular.html;jsessionid=0A7D234046E2C45F6E90E8DD81152A68.internet1?nn=152246&__site=DfD" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Digital für Deutschland - Stellenangebote</A>
+                        <DT><A HREF="https://www.parshipgroup.com/karriere/jobs/#jobListWidget" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Jobs bei Parship Group</A>
+                        <DT><A HREF="https://www.psdgroup.com/job-category/vacancies-at-psd/#s=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Current job opportunities at psd | psd group</A>
+                        <DT><A HREF="https://sumup.com/careers/positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">SumUp - a better way to get paid</A>
+                        <DT><A HREF="https://careers.balderton.com/careers_home.php?Company=%25&Industry=112&Function=%25&Location=22" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Balderton Capital Careers | Balderton Capital</A>
+                        <DT><A HREF="https://careers.agfa.com/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow=25" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers at Agfa-Gevaert NV</A>
+                        <DT><A HREF="https://www.aceart.de/kontakt" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Kontaktieren Sie uns! Wir sind Ihre Internetagentur in Stuttgart | aceArt GmbH</A>
+                        <DT><A HREF="https://www.ubimax.com/en/career/#eu" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ubimax – Career</A>
+                        <DT><A HREF="https://agent25-online.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Agent25-Online - Ihre Full Service Web-Agentur aus Bremen !</A>
+                        <DT><A HREF="https://boards.greenhouse.io/workforef" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at Entrepreneur First Team</A>
+                        <DT><A HREF="https://www.jobblitz.de/?fbclid=IwAR39jCnyyXBy6KeyJavSY3kO4ZG6KQJF9tJES_CFa8fhrlbZVLGng0WIG0g" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Die neue Jobbörse für Helden⚡ jobblitz.de</A>
+                        <DT><A HREF="https://www.gft.com/de/de/index/unternehmen/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | GFT Deutschland</A>
+                        <DT><A HREF="https://crate.io/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at Crate.io: Come scale with us! We are hiring | CrateDB</A>
+                        <DT><A HREF="https://www.taledo.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Taledo | Digital Recruiting | IT, Marketing and Sales Jobs</A>
+                        <DT><A HREF="https://www.deutsche-startups.de/startups-jobs/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Die besten Startup Jobs in der digitalen Wirtschaft</A>
+                        <DT><A HREF="https://berlinstartupjobs.com/?fbclid=IwAR0tExEWAAkoU_u2usAirt2Z5AJCtFEbPbEM03PMKwwTmF5_bfCsflDWyIM" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Berlin Startup Jobs | IT Jobs, Marketing, Internships, Sales, HR, Freelance</A>
+                        <DT><A HREF="https://www.disy.net/de/karriere/aktuelle-stellen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Stellen - Disy</A>
+                        <DT><A HREF="https://www.google.com/search?client=firefox-b-d&biw=1366&bih=632&q=how+to+start+a+startup+in+germany&sa=X&ved=2ahUKEwjv8oSr9ufmAhWPwsQBHR3jD-c4ChDVAigEegQICxAF" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">how to start a startup in germany - Google Search</A>
+                        <DT><A HREF="https://www.anothermonday.com/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere bei Another Monday</A>
+                        <DT><A HREF="https://www.movingimage.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">A career at movingimage | Check our latest job openings | movingimage</A>
+                        <DT><A HREF="https://www.bookastreetartist.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Join our art loving crew | Book a Street Artist</A>
+                        <DT><A HREF="https://omnius.com/careers/#open-positions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers - omni:us</A>
+                        <DT><A HREF="https://boards.greenhouse.io/foodspring" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at foodspring</A>
+                        <DT><A HREF="https://handy-games.com/en/jobs/#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | HandyGames™</A>
+                        <DT><A HREF="https://intland.com/career/#Consulting" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career | About us | Intland Software</A>
+                        <DT><A HREF="https://www.orizon.de/de/jobboerse" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote unserer Jobbörse - Orizon GmbH</A>
+                        <DT><A HREF="https://www.crytek.com/career#jobs-listing" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs available at video game developer &amp; tech provider Crytek</A>
+                        <DT><A HREF="https://coachhub.io/career/#personio-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs &amp; Career at CoachHub - CoachHub</A>
+                        <DT><A HREF="https://www.medianet-bb.de/de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobbörse | media:net berlinbrandenburg e.V.</A>
+                        <DT><A HREF="https://sellics.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Interested in working with the #1 Amazon tool? Join Sellics Today!</A>
+                        <DT><A HREF="https://corporate.aboutyou.de/de/departments/tech" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Tech &amp; Development Jobs - ABOUT YOU</A>
+                        <DT><A HREF="https://mattermost.com/careers/#openings" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers - Mattermost - Open Source, On-Prem or Private Cloud Messaging</A>
+                        <DT><A HREF="https://www.b-next.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers in our company - b-next is a great place to work</A>
+                        <DT><A HREF="https://karriere.schufa.de/jobs-bewerbung/stellenboerse/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Bewerbung</A>
+                        <DT><A HREF="https://www.celonis.com/careers/jobs#global-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Tech Job Openings in NYC, Chicago &amp; San Francisco | Celonis</A>
+                        <DT><A HREF="https://www.venturi-group.com/location/germany/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Germany Archives - Venturi Group</A>
+                        <DT><A HREF="https://www.tieto.com/en/careers/search-our-jobs/?area=&country=Germany&city=&q=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Search our jobs | Tieto</A>
+                        <DT><A HREF="https://bjc-its.de/jobsearch" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Best Job IT Experts | Jobsuche</A>
+                        <DT><A HREF="https://www.insite-it.net/en/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at INSITE IT - INSITE IT</A>
+                        <DT><A HREF="https://www.jobijoba.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Stellenangebote finden - Jobsuchmaschine JobiJoba</A>
+                        <DT><A HREF="https://teampicnic.join.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs @ Picnic Technologies | JOIN</A>
+                        <DT><A HREF="https://www.ventum-consulting.com/de/karriere/deutschland/stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote</A>
+                        <DT><A HREF="https://www.startuplist.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Startuplist - Finde Jobs bei Startup-Unternehmen</A>
+                        <DT><A HREF="https://www.seedtable.com/startups-frankfurt" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">99 Best Frankfurt Startups to Watch in 2020 | Seedtable</A>
+                        <DT><A HREF="https://www.iee.fraunhofer.de/de/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | Karriere</A>
+                        <DT><A HREF="https://www.p3-group.com/karriere/jobsp3/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs@p3 - P3 group GmbH</A>
+                        <DT><A HREF="https://www.campana-schott.com/de/de/karriere/stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Campana &amp; Schott</A>
+                        <DT><A HREF="https://www.qvestmedia.com/de/unternehmen/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Qvest Media</A>
+                        <DT><A HREF="https://simon-kucher.csod.com/ux/ats/careersite/1/home?c=simon-kucher&country=de_fr_be_se_nl_dk_es_lu_at" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://simon-kucher.csod.com/ux/ats/careersite/1/home?c=simon-kucher&amp;country=de_fr_be_se_nl_dk_es_lu_at</A>
+                        <DT><A HREF="https://www.twt-gmbh.de/karriere/stellenangebote-direkteinstieg.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TWT GmbH: Stellenangebote Direkteinstieg</A>
+                        <DT><A HREF="https://careers.schaeffler.com/sap/bc/webdynpro/sap/hrrcf_a_unreg_job_search?sap-language=DE#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellensuche</A>
+                        <DT><A HREF="https://dydocon.com/dydocon/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - dydocon</A>
+                        <DT><A HREF="https://join.mindville.com/jobs?location_id=70618" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Stockholm - Mindville</A>
+                        <DT><A HREF="https://accso.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei Accso - Accso</A>
+                        <DT><A HREF="https://www.rds-karriere.de/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - RDS CONSULTING GmbH - KARRIERE</A>
+                        <DT><A HREF="https://www.jobvector.de/stellensuche.html?keywords=&locations=&distance=50&subject_id%5B%5D=967&sort=date_start&_pn=1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei jobvector</A>
+                        <DT><A HREF="https://www.wdp.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | wdp</A>
+                        <DT><A HREF="https://www.perzukunft.de/it-jobs-in-berlin/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT Jobs in Berlin - Perzukunft</A>
+                        <DT><A HREF="https://jobs.senacor.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Senacor Joblist</A>
+                        <DT><A HREF="https://gfk.wd3.myworkdayjobs.com/Corporate_Careers/2/refreshFacet/318c8bb6f553100021d223d9780d30be" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Search for Jobs</A>
+                        <DT><A HREF="https://www.ratbacher.de/it-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566" ICON_URI="https://www.ratbacher.de/Favicons/favicon-32x32.png" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABrVBMVEUAAACNxT4lJSWNxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT6NxT4lJSUlJSUlJSWNxT6NxT6NxT6NxT6NxT6NxT4lJSUlJSUlJSUlJSUlJSWNxT6NxT4lJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSWNxT6NxT6NxT6NxT6NxT4lJSUlJSUlJSWNxT6NxT6NxT6NxT6NxT4lJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSWNxT4lJSX///9G3TEeAAAAjHRSTlMAAAAPMzUtBULm7OvtyRZH+doY+s3DxqcTAQoJ6TIJDAoBmb+bXRfoKAvE+8lL6E23/M4dAiZRs/3+aharBEb1/P3lb8sPTU9QSA1U1V/QEpi4CAVY64QMYnNyeqrv6jcb3IYD2/iVEOmjmuUrVh91w0/0RpaLIUHzZbV87jk17NpVts8YXm5tbCU8Z1PmlIwAAAABYktHRI6CBbNvAAAAB3RJTUUH4QoaCzQg6MnxAwAAAWdJREFUOMul0ldTwlAQBeBk7Q17IdhRLNhFDWLvFbsiNsCCvffese1/drkzaki4T56nzNxvTjZ7IwgUMSQ0jCU8QhSCRYyMio6hxMbpOCA+4YslMek/IDklNS09QwS9ZNBDMJCZlZ2TmyeCId9YUGgC0ICiYlYPJaWI5rLygBYNQKyoVHYEAKmq2i9qannAUlffICNaGxUVSkAEbEaqaGpWgJbWtvaOH0Cik0BXtwLoenr7+gd+lwSDNMaQTb2Nv8CwFdE+wgVgGaVXjI1zAMDE5BSB6cBlCjDjmHWyzM0v0PnikqoAXG5URPYsa8CK4nx1zaueIACsOyTNhAxYN5zOTTPi1rb2CxiQdwB2/U17AFxg2SSw7+UDOFhFPDziAgFMdqo41gMXwAkB9ykXCHB2Tk8XAFzg9f+VlxIfwBWB6xsuEOD2joRHfZuue5TNDwxIjyjj07P6ul9efW/vDMBHp+/108TAN4JGkOQ2AFFOAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTEwLTI2VDExOjUyOjMyKzAyOjAwe0g5JwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0xMC0yNlQxMTo1MjozMiswMjowMAoVgZsAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=">IT Jobs: Top Stellenangebote | Ratbacher</A>
+                        <DT><A HREF="https://www.thryvetalent.com/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">thryve | Jobs</A>
+                        <DT><A HREF="https://kommlink.catsone.com/careers/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers | KOMMLINk</A>
+                        <DT><A HREF="https://buildingminds.bamboohr.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">BambooHR</A>
+                        <DT><A HREF="https://jobs.iqvia.com/en-US/search?keywords=&location=&facetcitystate=frankfurt%20am%20main,hessen#" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Frankfurt am Main, Hessen at IQVIA™</A>
+                        <DT><A HREF="https://jointhebrightestminds.com/en/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs</A>
+                        <DT><A HREF="https://jobs.bild.de/?suid=96dd9ca0%2D8ee4%2D4649%2D8072%2D30d48b7cfdbc&fsk=673826&fdl=en&an=facets&fu=1000000&fid=1000000&fn=categories&fa=select&action=facet%5Fselected%3Bcategories%3B1000000" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Der Stellenmarkt von BILD. Powered by StepStone.</A>
+                        <DT><A HREF="https://www.burda.com/de/karriere/suche/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote und Jobs finden bei Hubert Burda Media</A>
+                        <DT><A HREF="https://www.qaware.de/karriere/#jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere</A>
+                        <DT><A HREF="https://www.tum.de/en/about-tum/working-at-tum/open-positions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Careers at TUM - TUM</A>
+                        <DT><A HREF="https://db.alumni.tum.de/jobs/index" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">TUM Jobportal</A>
+                        <DT><A HREF="https://jobportal.optimal-systems.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Bewerberportal</A>
+                        <DT><A HREF="https://www.fairnetzt.de/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FAIRNETZT Systemhaus Berlin: Karriere - bewerben Sie sich bei uns.</A>
+                        <DT><A HREF="https://www.best-profile.eu/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | Best Profile</A>
+                        <DT><A HREF="https://blogs.transparent.com/german/german-subordinating-conjunctions/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">German Subordinating Conjunctions | German Language Blog</A>
+                        <DT><A HREF="https://www.jetbrains.com/careers/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Open Positions - JetBrains</A>
+                        <DT><A HREF="https://jobs.gebit.de/stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote für Ihren Wunschort - GEBIT Jobs</A>
+                        <DT><A HREF="https://blog.elopage.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | elopage</A>
+                        <DT><A HREF="https://www.aoe.com/en/career/vacancies.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vacancies: Jobs at AOE | AOE</A>
+                        <DT><A HREF="https://jobs.camos.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">camos Software und Beratung GmbH</A>
+                        <DT><A HREF="https://boards.greenhouse.io/sunshinesmile" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs at PlusDental</A>
+                        <DT><A HREF="https://www.get-in-it.de/jobsuche" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Alle Jobs für Informatiker | get in IT</A>
+                        <DT><A HREF="https://cin.clear-group.de/de/karriere/stellenangebote/informationstechnologie/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Informationstechnologie - CLEAR INTEC</A>
+                        <DT><A HREF="https://www.dastelefonbuch.de/Suche/It" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">it im Das Telefonbuch - Jetzt finden!</A>
+                        <DT><A HREF="https://www.reply.com/de/about/careers/jobSearch" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere bei Reply - Job Search</A>
+                        <DT><A HREF="https://www.zimmer-gruppe.de/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT-Jobs in Berlin - Zimmer IT-Com</A>
+                        <DT><A HREF="https://www.qmethods.de/karriere.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Competence Leads - Werde Teil unseres APM-Expertenteams! - Aktuelle Stellenangebote</A>
+                        <DT><A HREF="https://accelerate.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | accelerate</A>
+                        <DT><A HREF="https://www.net-brain.it/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs – net-brain IT Consulting GmbH</A>
+                        <DT><A HREF="https://karriere.sks-group.eu/jobs-sks-group.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs :: SKS Group Karriereportal</A>
+                        <DT><A HREF="https://joblift.de/topjobs-in-Munich" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">21.970 Jobs in München - Joblift</A>
+                        <DT><A HREF="https://mytalentscout.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">myTalentscout » Die Spezialisten im IT-Recruiting D/A/CH</A>
+                        <DT><A HREF="https://www.eurofins-digitaltesting.com/job-openings/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Openings</A>
+                        <DT><A HREF="https://www.foodspring.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://www.foodspring.de/jobs</A>
+                        <DT><A HREF="https://karriere.audibene.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Aktuelle Stellenangebote bei audibene</A>
+                        <DT><A HREF="https://www.signavio.com/jobs/?jobID=38.80F&coref=1.11.pAD_B09" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career Opportunities - QA Engineer (m/f/d) | Signavio</A>
+                        <DT><A HREF="https://recruiting.adp.com/srccar/public/RTI.home?c=2176007&d=ExternalCareerSite&rb=GLASSDOOR#/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career Site - Self Service</A>
+                        <DT><A HREF="https://stellenmarkt.faz.net/jobsuche/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT: Jobs und Stellenangebote | FAZ Stellenmarkt</A>
+                        <DT><A HREF="https://www.digitell.me/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs – digitell.me</A>
+                        <DT><A HREF="https://www.stepstone.de/5/ergebnisliste.html?suid=18dfebd1%2Ded05%2D4cb7%2D898f%2Df6913ef44fd9&fci=419239&an=facets&fdl=en&fid=en&fn=detected%5Flanguages&fa=select&action=facet%5Fselected%3BdetectedLanguages%3Ben" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ergebnisse Ihrer Jobsuche</A>
+                        <DT><A HREF="https://cabka.com/de/de/m/ueber-uns/#co2781" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CABKA Group: die Spezialisten für Produkte aus recyceltem Kunststoff. Über uns</A>
+                        <DT><A HREF="https://germany.xpatjobs.com/jobs-speaking/English" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs in Germany speaking English - Germany Jobs - XpatJobs</A>
+                        <DT><A HREF="https://berlinstartupjobs.com/?s=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">You searched for - Berlin Startup Jobs</A>
+                        <DT><A HREF="https://apply.workable.com/socialsweethearts/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">social sweethearts GmbH - Current Openings</A>
+                        <DT><A HREF="https://www.cliplister.com/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs | Cliplister</A>
+                        <DT><A HREF="https://www.hcm-advice.com/#referenzen-success-stories" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">HCM ADVICE - Human Capital Management meets Technology</A>
+                        <DT><A HREF="https://www.urlaubstracker.de/offene-jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Jobs &amp; Stellen bei Urlaubstracker.de</A>
+                        <DT><A HREF="https://www.localjob.de/stellenangebote/edv" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Starte durch – mit IT-Jobs auf localjob.de</A>
+                        <DT><A HREF="https://www.vesterling.com/start#!/search" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Vesterling AG: Stellenmarkt</A>
+                        <DT><A HREF="https://www.konen-lorenzen.de/jobangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobangebote | Konen &amp; Lorenzen</A>
+                        <DT><A HREF="https://www.team-pb.de/offene-stellen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Stellen - TEAM GmbH</A>
+                        <DT><A HREF="https://www.heureka.com/de/unternehmen/karriere" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - heureka e-Business GmbH - Leonberg</A>
+                        <DT><A HREF="https://www.lionbridge.com/join-our-team/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Join Us, Find Careers and Jobs at Lionbridge</A>
+                        <DT><A HREF="https://mindsquare.de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | mindsquare</A>
+                        <DT><A HREF="https://treccert.com/auditor-network/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Auditor Network – TreccerT</A>
+                        <DT><A HREF="https://recruitingapp-5450.de.umantis.com/Jobs/1" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellen | Garmin Deutschland GmbH | Haufe Talent Management</A>
+                        <DT><A HREF="https://www.zedas.com/de/KARRIERE" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ZEDAS GmbH - Karriere</A>
+                        <DT><A HREF="http://www.games-quality.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Games QualityKarriere - Games Quality</A>
+                        <DT><A HREF="https://www.ghcsolutions.de/karriere/positionen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">ghc solutions GmbH | Positionen</A>
+                        <DT><A HREF="https://www.ec4u.com/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote - ec4u</A>
+                        <DT><A HREF="https://careers.camelot-group.com/ITLab/go/ITLab-English/3949801/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">https://careers.camelot-group.com/ITLab/go/ITLab-English/3949801/</A>
+                        <DT><A HREF="https://www.we-love-x.com/job-openings/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - We Love X</A>
+                        <DT><A HREF="http://sicoya.com/team/#career" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Team - Sicoya</A>
+                        <DT><A HREF="https://stellenangebote.ottobock.de/cgi-bin/appl/selfservice.pl?lang=de" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Ottobock - Karriereportal</A>
+                        <DT><A HREF="https://medloop.co/careers" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Medloop - The future of connected healthcare</A>
+                        <DT><A HREF="https://www.xinonet.com/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">xinonet Start - xinonet</A>
+                        <DT><A HREF="https://www.inch-media.de/Karriere/Ihre-Karrierechance" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Starten Sie noch heute Ihre Karriere bei der inch-media</A>
+                        <DT><A HREF="https://www.absolventa.de/jobs/channel/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT &amp; Development – Jobs &amp; Stellenangebote | 21.03.2020</A>
+                        <DT><A HREF="https://www.ircgmbh.de/de/stellenangebote/personalvermittlung/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Executive Search Personalberatung Personalvermittlung Interimmagement München Personalvermittlung IRC GmbH</A>
+                        <DT><A HREF="https://karriere.minimax.de/stellenangebote.html?start=0" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Minimax GmbH &amp; Co. KG</A>
+                        <DT><A HREF="https://expertum.de/jobboerse/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">» Jobbörse | expertum</A>
+                        <DT><A HREF="https://www.horvath-partners.com/de/karriere/jobs/jobsuche/?viewType=consulting" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche - Horváth &amp; Partners Management Consultants</A>
+                        <DT><A HREF="https://kubix.digital/join-us/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Looking For A Job In Online Marketing? Join Us! - Kubix Digital</A>
+                        <DT><A HREF="https://www.die-bewerbungsschreiber.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Start-up Jobs in Bochum @ Die Bewerbungsschreiber</A>
+                        <DT><A HREF="https://www.testbirds.com/company/career/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - Testbirds</A>
+                        <DT><A HREF="https://www.davinci.de/karriere/stellenangebote/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote – Da Vinci Engineering - Da Vinci Engineering</A>
+                        <DT><A HREF="https://www.avantgarde-experts.de/de/jobangebote/?area=10&criteria_fachgebiet=15&offset=0" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobbörse: Jetzt Traumjob finden | AVANTGARDE Experts</A>
+                        <DT><A HREF="https://www.jobhack.net/de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">JobHack.net - Deutsch -</A>
+                        <DT><A HREF="https://avantgarde.net/de/careers/jobs/de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs und Stellenangebote bei Avantgarde</A>
+                        <DT><A HREF="https://jobs.lever.co/fwgsolutions" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">FWG Solutions</A>
+                        <DT><A HREF="https://www.job-ag.com/technology/bewerber/stellenangebote/stellensuche?page=1&job_title=&location=&radius=50&tags%5B0%5D=technology&sort=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellensuche: Finden Sie jetzt mit uns Ihren neuen Job! :: JOB AG</A>
+                        <DT><A HREF="https://www.eurostaff.careers/opportunities/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Opportunities | Eurostaff Careers</A>
+                        <DT><A HREF="https://www.inmindcloud.com/about-us/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career - In Mind Cloud</A>
+                        <DT><A HREF="https://www.cluno.com/en/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career: Current job openings. | cluno.com</A>
+                        <DT><A HREF="https://friday-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei FRIDAY</A>
+                        <DT><A HREF="https://de.cosmoconsult.com/ueber-uns/jobs-und-karriere/offene-stellen/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote bei COSMO CONSULT in Deutschland | COSMO CONSULT</A>
+                        <DT><A HREF="https://nfon-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei NFON AG</A>
+                        <DT><A HREF="https://jobs.acp.de/Jobs#it-jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Portal</A>
+                        <DT><A HREF="https://karriere.formeld.com/Jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job Portal</A>
+                        <DT><A HREF="https://www.inform-software.de/karriere/stellenangebote" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote | INFORM GmbH</A>
+                        <DT><A HREF="https://www.boa-gmbh.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">KARRIERE – BOA</A>
+                        <DT><A HREF="https://www.mehr-demokratie.de/ueber-uns/jobs/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Mehr Demokratie e.V.: Jobs</A>
+                        <DT><A HREF="https://menschdanke-jobs.personio.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs bei MenschDanke GmbH</A>
+                        <DT><A HREF="https://www.talentrocket.de/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere &amp; Jobs für Juristen | TalentRocket LAW</A>
+                        <DT><A HREF="https://www.leipzig-jobarena.de/jobboerse/it-stellenangebote.html" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">IT Stellenangebote</A>
+                        <DT><A HREF="https://legal.one/karriere.php" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere | Legal One GmbH</A>
+                        <DT><A HREF="https://www.lawio.de/karriere/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Karriere - LAWIO</A>
+                        <DT><A HREF="https://www.konen-lorenzen.com/job-search/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Job search | Konen &amp; Lorenzen</A>
+                        <DT><A HREF="https://www.wandelbots.com/career/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Career EN | Wandelbots</A>
+                        <DT><A HREF="https://zalvus.com/de-de/themen/jobs?" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Thema: Jobs</A>
+                        <DT><A HREF="https://www.diva-e.com/de/karriere/stellenangebote/?tx_divaelocationmanager_divaelocationmanager%5Baction%5D=search&tx_divaelocationmanager_divaelocationmanager%5Bcity%5D=6&tx_divaelocationmanager_divaelocationmanager%5Bcontroller%5D=Job&cHash=ff835e8d02f827857de59130182b4dd1#result" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Stellenangebote</A>
+                        <DT><A HREF="https://bestcareer.moberries.com/?category=5" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Join the Best Career Talent Network</A>
+                        <DT><A HREF="https://payever.de/jobs" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs - payever</A>
+                        <DT><A HREF="https://karriere.cancom.de/jobs/stellenangebote.html?start=0" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">CANCOM SE</A>
+                        <DT><A HREF="https://www.infineon.com/cms/de/careers/jobsearch/jobsearch/#!view=jobs&term=&functional_area=IT&entry_level=&country=" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobsuche - Infineon Technologies</A>
+                        <DT><A HREF="https://www.yourjob.de/stellenangebote/it" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobs IT / TK / Software-Entwicklung - yourjob.de</A>
+                        <DT><A HREF="https://jobs.lever.co/joinefnow?department=EF%20Team" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Entrepreneur First</A>
+                        <DT><A HREF="https://www.puro-personal.de/stellen-it.php" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Offene Stellen - puro personal</A>
+                        <DT><A HREF="https://wupersonal.hr4you.org/job_finder.php?page=1&from=change_page" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">WU / IT-STAFFING</A>
+                        <DT><A HREF="https://www.jobalarm.me/" ADD_DATE="1745834194" LAST_MODIFIED="1759596566">Jobalarm</A>
+                        <DT><A HREF="https://www.grinnberg.de/it-jobs" ADD_DATE="1759479748" LAST_MODIFIED="1759596566">IT jobs for your career development | grinnberg GmbH</A>
+                    </DL><p>
