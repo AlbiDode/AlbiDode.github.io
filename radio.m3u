@@ -137,7 +137,7 @@ https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:0,Chill FM
 https://eu9.fastcast4u.com/proxy/chillradio?mp=/1
 #EXTINF:0,Klan Radio
-https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
+http://79.106.90.124:5252/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,EuroNews Radio
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,ORA NEWS
