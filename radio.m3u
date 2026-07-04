@@ -2,6 +2,8 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,Plus FM
 https://stream2.plusfm.net/m3u/plusfm.m3u
+#EXTINF:0,Plus FM Chill
+https://radio.plusfm.net/listen/chill/plusfm-chill.mp3
 #EXTINF:0,Radio Galatsi
 https://s7.reliastream.com/proxy/mousikos/stream
 #EXTINF:0,MC2
